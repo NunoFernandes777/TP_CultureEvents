@@ -1,0 +1,27 @@
+CREATE TABLE IF NOT EXISTS locations (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  city VARCHAR(255) NOT NULL,
+  country VARCHAR(255) NOT NULL,
+  address VARCHAR(255) NOT NULL DEFAULT '',
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  UNIQUE KEY uniq_location (city, country, address)
+);
+
+CREATE TABLE IF NOT EXISTS events (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  uid VARCHAR(255) NOT NULL,
+  title VARCHAR(500) NOT NULL,
+  description TEXT NULL,
+  event_date VARCHAR(64) NULL,
+  location_id INT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  UNIQUE KEY uniq_uid (uid),
+  KEY idx_event_date (event_date),
+  KEY idx_location_id (location_id),
+  CONSTRAINT fk_events_location
+    FOREIGN KEY (location_id) REFERENCES locations(id)
+    ON UPDATE CASCADE
+    ON DELETE RESTRICT
+);

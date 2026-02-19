@@ -1,0 +1,3002 @@
+[
+  {
+    "uid": "43692627",
+    "title_fr": "Dédicace de Peyo Lizarazu",
+    "description_fr": "Venez rencontrer Peyo Lizarazu lors d'une séance de dédicace de son livre \"Vies de surf\" aux éditions La Martinière.",
+    "conditions_fr": null,
+    "location_name": "Librairie Mollat",
+    "location_address": "15 rue Vital Carles, 33000 Bordeaux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bordeaux"
+  },
+  {
+    "uid": "61763667",
+    "title_fr": "La peur en voyage",
+    "description_fr": "Venez frissonner à l’international !\nLectures réalisées en partenariat avec l’association AFaLaC.",
+    "conditions_fr": null,
+    "location_name": "Médiathèque Aragon",
+    "location_address": "54 rue du Port, 72 000 Le Mans",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Mans"
+  },
+  {
+    "uid": "81481497",
+    "title_fr": "BRICOTHEQUE",
+    "description_fr": "Venez emprunter gratuitement des outils de bricolage et de jardinage. Liste des outils disponibles : https://urlz.fr/kbVs. Réservation par téléphone",
+    "conditions_fr": "Gratuit, adhésion à prix libre à l'association, chèque de caution",
+    "location_name": "La Boucle",
+    "location_address": "19 rue Yvonne et Robert Noutary, 33130 Bègles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bègles"
+  },
+  {
+    "uid": "15743620",
+    "title_fr": "Atelier motricité parents/enfants",
+    "description_fr": "Éveil moteur et sensible pour enfants de 2 à 5 ans, accompagnés d'un ou plusieurs parents ou grands-parents.",
+    "conditions_fr": "6 € /personne/atelier (adhérent)\n9 € /personne/atelier (non adhérent) \nAdhésion pour un an, de date à date : familiale : 15 €, réservation obligatoire.",
+    "location_name": "Maison de quartier Prés aux bois",
+    "location_address": "29, rue de l’Ecole des Postes - 78000 Versailles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Versailles"
+  },
+  {
+    "uid": "93565509",
+    "title_fr": "LEO BRIERE",
+    "description_fr": "Mentaliste et illusionniste",
+    "conditions_fr": "A partir de 8,00€",
+    "location_name": "La Merise",
+    "location_address": "Place des Merisiers 78190 Trappes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Trappes"
+  },
+  {
+    "uid": "40901379",
+    "title_fr": "Ciné Lille-Sud • Les Contes de la Nuit",
+    "description_fr": "Trois amis jouent toutes les histoires dont ils ont envie, dans une nuit magique où tout est possible...",
+    "conditions_fr": "Gratuit, réservation obligatoire.",
+    "location_name": "Le Grand Sud",
+    "location_address": "50 rue de l'Europe, 59000 LILLE",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lille"
+  },
+  {
+    "uid": "84171019",
+    "title_fr": "Soirée Latino",
+    "description_fr": "Soirée exceptionnelle avec l’orchestre CUBABAND\n-----------------------------------------------\n\nSoirée exceptionnelle avec l’orchestre **CUBABAND** ([https://cubaband.fr/](https://cubaband.fr/)) dédi",
+    "conditions_fr": null,
+    "location_name": "Salle Gascogne",
+    "location_address": "Allée du Rouergue, 31770 Colomiers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Colomiers"
+  },
+  {
+    "uid": "31695038",
+    "title_fr": "Cinéma : Carte Blanche #2 à Niki Lindroth von Bahr",
+    "description_fr": "À l’occasion de l’exposition \"Les fables de Niki Lindroth von Bahr\", deux Cartes Blanches sont laissées à l’artiste. Elle partage des films qui l’ont inspirée ou ressemblent à son propre univers.",
+    "conditions_fr": "Entrée libre dans la limite des places disponibles.",
+    "location_name": "Institut suédois",
+    "location_address": "11 rue Payenne",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "42508495",
+    "title_fr": "Famille Goldini - 1978",
+    "description_fr": "Cirque - Sortie de résidence de la famille Goldini - Dès 15 ans",
+    "conditions_fr": null,
+    "location_name": "Centre Culturel Théâtre des Mazades",
+    "location_address": "10 Avenue des Mazades, 31200 Toulouse, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "50981585",
+    "title_fr": "Étude juridique et interdisciplinaire du Comte de Monte Cristo d'Alexandre Dumas",
+    "description_fr": "Cette journée d'études se tiendra le jeudi 9 mars 2023.",
+    "conditions_fr": null,
+    "location_name": "Faculté de droit",
+    "location_address": "Chemin de la Censive du Tertre, 44313 NANTES",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "77307450",
+    "title_fr": "Envolée Lyrique by Thalia",
+    "description_fr": "Opéras, opérettes, comédies musicales et mélodies populaires seront le fil rouge de ce récital lyrique imaginé et porté par Céline Laborie, soprano, se produisant régulièrement à  [...]",
+    "conditions_fr": null,
+    "location_name": "Quai des arts",
+    "location_address": "Quai des arts, Cugnaux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cugnaux"
+  },
+  {
+    "uid": "86721503",
+    "title_fr": "Les histoires aux quatre vents",
+    "description_fr": "Retrouvez en alternance Caroline Le Lausque et Bastien Gonzalez qui chacun à leur manière vont enchanter nos histoires aux 4 vents et ravirent les yeux et les oreilles des enfants. De 3 à 7 ans.",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Médiathèque les Quatre Vents",
+    "location_address": "4 rue du jeu de paume, Le Loroux-Bottereau",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Loroux-Bottereau"
+  },
+  {
+    "uid": "61179411",
+    "title_fr": "Cinémobile",
+    "description_fr": "Le Cinémobile est une salle de cinéma itinérante unique en France qui sillonne la région Centre-val de Loire. Entrez, installez-vous confortablement dans de vrais fauteuils de cinéma pour visionner...",
+    "conditions_fr": "Voir http://cinemobile.ciclic.fr/films-seances/",
+    "location_name": "Parking de la Halle",
+    "location_address": "Boulevard Carnot, Jargeau",
+    "country_fr": null,
+    "location_city": "Jargeau"
+  },
+  {
+    "uid": "64950944",
+    "title_fr": "JOB DATING INTERIM",
+    "description_fr": "Rencontre avec l'employeur",
+    "conditions_fr": null,
+    "location_name": "La Trinité",
+    "location_address": "97220 La Trinité",
+    "country_fr": "France (Métropole)",
+    "location_city": "La Trinité"
+  },
+  {
+    "uid": "21514574",
+    "title_fr": "recrutement industrie avec Synergie ETT",
+    "description_fr": "l'agence d'intérim SYNERGIE de Freyming Merlebach recherche des opérateurs de production (h-f) pour travailler dans les sociétés LOGIFARE à Henriville et ELYSEE COSMETIQUES au Technopôle de Forbach.",
+    "conditions_fr": null,
+    "location_name": "Forbach",
+    "location_address": "57600 Forbach",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "58240867",
+    "title_fr": "LES METIERS DU BATIMENT",
+    "description_fr": "Le coordonnateur EMPLOI FORMATION de l'ARIQ BTP , présentera les champs d'activité de l'organisme, de la formation à l'accompagnement dans l'emploi.",
+    "conditions_fr": null,
+    "location_name": "Autun",
+    "location_address": "71400 Autun",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "99825681",
+    "title_fr": "Bâtiment Travaux Publics : testez votre potentiel dans ce secteur",
+    "description_fr": "Testez vos prédispositions pour travailler dans le secteur du Bâtiment Travaux Publics",
+    "conditions_fr": null,
+    "location_name": "Cluses",
+    "location_address": "74300 Cluses",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "11782068",
+    "title_fr": "Les mardis de l'intérim avec ADECCO",
+    "description_fr": "Venez rencontrer l'agence intérim ADECCO dans le Hall d'accueil du Pôle Emploi de Manosque.",
+    "conditions_fr": null,
+    "location_name": "Manosque",
+    "location_address": "04100 Manosque",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "82711649",
+    "title_fr": "Information collective Transport",
+    "description_fr": "Présentation des métiers du Transport, formations et financements.",
+    "conditions_fr": null,
+    "location_name": "Lyon",
+    "location_address": "69003 Lyon",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "77801685",
+    "title_fr": "Job Dating  Les métiers de l'industrie - Alliance Emploi",
+    "description_fr": "Venez rencontrer Alliance Emploi qui vous proposera leurs opportunités d'emploi dans le secteur de l'industrie, de nombreux postes sont à pourvoir (Opérateur de production, Pontier, Conducteur de ...",
+    "conditions_fr": null,
+    "location_name": "Dunkerque",
+    "location_address": "59140 Dunkerque",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "73232391",
+    "title_fr": "Le secteur de la Sécurité recrute ! Venez rencontrer un Professionnel du secteur en agence !",
+    "description_fr": "Le secteur de la Sécurité vous intéresse ?",
+    "conditions_fr": null,
+    "location_name": "Toulon",
+    "location_address": "83000 Toulon",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "70471813",
+    "title_fr": "DETECTION DE POTENTIEL COMMERCE",
+    "description_fr": "Vous souhaitez changer de voie? Vous êtes attiré(e) par le secteur du commerce et vous vous demandez s’il peut vous correspondre? Participez à une session de détection de potentiel pour envisager ...",
+    "conditions_fr": null,
+    "location_name": "Manosque",
+    "location_address": "04100 Manosque",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "24810860",
+    "title_fr": "Semaine de la sécurité privée - après-midi \"spéciale jeunes < 26 ans\" : venez découvrir les métiers de la sécurité privée !",
+    "description_fr": "2024, l'année des JO : la Sécurité recrute !",
+    "conditions_fr": null,
+    "location_name": "Quimperlé",
+    "location_address": "29300 Quimperlé",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "98549505",
+    "title_fr": "La rencontre du mois/ Manpower Industrie",
+    "description_fr": "Chaque mois, venez rencontrer une entreprise qui cherche à recruter en direct !",
+    "conditions_fr": null,
+    "location_name": "Lyon",
+    "location_address": "69008 Lyon",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "29653769",
+    "title_fr": "Jeudi du recrutement St Marcellin avec HELP EMPLOI",
+    "description_fr": "Rencontre de Help Emploi dans nos locaux, pour de nombreuses opportunités d'emploi dans des domaines très variés (industrie, BTP, support à l'entreprise, commerce, métiers de bouche...)",
+    "conditions_fr": null,
+    "location_name": "Saint-Marcellin",
+    "location_address": "38160 Saint-Marcellin",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "61582241",
+    "title_fr": "Atelier de Détection de Potentiel TRANSPORT",
+    "description_fr": "Venez participer à cet Atelier \"Détection de potentiels\" sur le secteur du Transport !",
+    "conditions_fr": null,
+    "location_name": "Vénissieux",
+    "location_address": "69200 Vénissieux",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "85081456",
+    "title_fr": "Les métiers de l'industrie agro-alimentaire , pourquoi pas moi ?",
+    "description_fr": "Découvrez l'atelier de détection de potentiels …",
+    "conditions_fr": null,
+    "location_name": "Brive-la-Gaillarde",
+    "location_address": "19100 Brive-la-Gaillarde",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "61040783",
+    "title_fr": "Réunion d'information sur la VAE (Validation des Acquis de l'Expérience)",
+    "description_fr": "SAVEZ VOUS QU'UNE EXPERIENCE PROFESSIONNELLE PEUT ETRE TRANSFORMEE EN DIPLOME?",
+    "conditions_fr": null,
+    "location_name": "Cachan",
+    "location_address": "94230 Cachan",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "42476707",
+    "title_fr": "La Ville de Rennes recrute ses agent d'entretien des réseaux d'assainissement - MRS",
+    "description_fr": "Recrutement par la méthode de recrutement par simulation (MRS) pour des postes d'Ouvriers d'entretien des réseaux d'assainissement pour la Ville de Rennes.",
+    "conditions_fr": null,
+    "location_name": "Rennes",
+    "location_address": "35200 Rennes",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "88955863",
+    "title_fr": "Rencontrez Déclic Intérim !",
+    "description_fr": "Tous les 15 jours, l'agence Pôle emploi de Mende invite une agence Intérim de Saint-Chély d'Apcher à tenir une permanence sur Mende afin de vous rencontrer et vous faire bénéficier des opportunité...",
+    "conditions_fr": null,
+    "location_name": "Mende",
+    "location_address": "48000 Mende",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "55555615",
+    "title_fr": "Salon Info'sup Bretagne Sud",
+    "description_fr": "Le salon de l'enseignement supérieur en Morbihan",
+    "conditions_fr": null,
+    "location_name": "parc des expositions de Lanester",
+    "location_address": "286 Rue Rouget de Lisle  56600 Lanester",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lanester"
+  },
+  {
+    "uid": "80061432",
+    "title_fr": "STAVO + RATUS + JOY C + MISA + GUESTS",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "17,50 / 19,50€",
+    "location_name": "Espace Julien",
+    "location_address": "39 cours Julien, 13006 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "91383092",
+    "title_fr": "Recrutement avec RANDSTAD",
+    "description_fr": "Vous vous posez des questions sur l'intérim ? Vous souhaitez décrocher une mission, un CDD ou même un CDI ?",
+    "conditions_fr": null,
+    "location_name": "Châteaurenard",
+    "location_address": "13160 Châteaurenard",
+    "country_fr": "France (Métropole)",
+    "location_city": "Châteaurenard"
+  },
+  {
+    "uid": "89133954",
+    "title_fr": "Alexandre Schoedler en dédicace à la librairie BD Fugue de Nice",
+    "description_fr": "Alexandre Schoedler en dédicace à la librairie BD Fugue de Nice",
+    "conditions_fr": null,
+    "location_name": "Librairie BD Fugue",
+    "location_address": "31 Rue d'Angleterre,06000 Nice",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nice"
+  },
+  {
+    "uid": "47421143",
+    "title_fr": "Eglise St-Pierre, Cognin (73)",
+    "description_fr": "vendredi 28 juin : \n- 20h : commentaire historique et méditatif sur le triptyque des disciples d’Emmaüs (Arcabas).\n- 20h30 : « Histoire et légendes des saints patrons de notre paroisse » récit conté.",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Eglise St-Pierre, Cognin (73)",
+    "location_address": "12 rue de l'Epine, 73160 COGNIN",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cognin"
+  },
+  {
+    "uid": "51077500",
+    "title_fr": "[ SCROLL ! ] Café-débat : L'IA dans la fiction",
+    "description_fr": "(Re)découverte d'œuvres de fiction abordant l'intelligence artificielle, suivi d'un temps de débat autour des nouveaux enjeux soulevés par le développement de l'IA.",
+    "conditions_fr": "Sur inscription par tel ou par mail auprès de la Bibliothèque Nomade",
+    "location_name": "Bibliobus - Arrêt Pouvourville",
+    "location_address": "3 chemin des Clotasses",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "8179446",
+    "title_fr": "[ SCROLL ! ] La grande histoire d'un petit trait",
+    "description_fr": "À partir d'une application venez découvrir l'univers de Serge Bloch et créez à votre tour !",
+    "conditions_fr": "Sur inscription via formulaire",
+    "location_name": "Médiathèque Pradettes",
+    "location_address": "3 Avenue de la Dépêche, 31100 Toulouse, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "21974669",
+    "title_fr": "L'été de tous les sports - Ateliers",
+    "description_fr": "Ateliers de monocycle et mini volant + studio photo participatif sur le geste sportif",
+    "conditions_fr": null,
+    "location_name": "Jardin des Acacias",
+    "location_address": "79 rue Lannes 92000 Nanterre",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nanterre"
+  },
+  {
+    "uid": "60078935",
+    "title_fr": "Concert intimiste",
+    "description_fr": "Concert intimiste guitare voix",
+    "conditions_fr": null,
+    "location_name": "Église Sainte-Anne",
+    "location_address": "Rue du Bourg 41100 Sainte-Anne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Sainte-Anne"
+  },
+  {
+    "uid": "63854068",
+    "title_fr": "Visite commentée",
+    "description_fr": "Site majeur de l’art roman, cette église renferme des fresques du XIIe siècle illustrant la vie du Christ, de l’Annonciation au miracle des Noces de Cana.",
+    "conditions_fr": "guide sur place",
+    "location_name": "Église Saint-Aignan",
+    "location_address": "Le Bourg, 18120 Brinay",
+    "country_fr": "France (Métropole)",
+    "location_city": "Brinay"
+  },
+  {
+    "uid": "70785599",
+    "title_fr": "Portes ouvertes du musée",
+    "description_fr": "3e étape du \"Parcours Jeanne d'Arc à Patay\". Vous y trouverez : un diaporama audio sur la campagne de Loire ; des fers à cheval authentiques du Moyen Âge, découverts sur les chemins des armées de l'é…",
+    "conditions_fr": null,
+    "location_name": "Musée de la Bataille de Patay",
+    "location_address": "23 place de la Halle 45310 Patay",
+    "country_fr": "France (Métropole)",
+    "location_city": "Patay"
+  },
+  {
+    "uid": "65374849",
+    "title_fr": "Assistez à un concert dans un manoir",
+    "description_fr": "Venez assister au concert du groupe Free Folk Quartet !",
+    "conditions_fr": "Aucune condition d'accès ni de participation",
+    "location_name": "Manoir de Sexey",
+    "location_address": "10 Rue du Château 54550 Sexey aux Forges",
+    "country_fr": "France (Métropole)",
+    "location_city": "Sexey-aux-Forges"
+  },
+  {
+    "uid": "56053463",
+    "title_fr": "Explorez une gare historique",
+    "description_fr": "Découvrez l'Ancienne gare de Metz, un chef-d'œuvre architectural de style néoclassique allemand conçu par Johann-Eduard Jacobsthal. Ne manquez pas cette opportunité de plonger dans le riche passé fer…",
+    "conditions_fr": null,
+    "location_name": "Ancienne gare de Metz",
+    "location_address": "Place du Roi George, 57000 Metz",
+    "country_fr": "France (Métropole)",
+    "location_city": "Metz"
+  },
+  {
+    "uid": "84229765",
+    "title_fr": "Levez les yeux ! Découvrez une tour de défense du XIIIe siècle",
+    "description_fr": "Découvrez un monument historique du XIIIème siècle qui présente son histoire et dévoile ses spécificités architecturales aux écoliers, collégiens et lycéens du pays de Rambervillers.",
+    "conditions_fr": null,
+    "location_name": "La tour d'Anglemein et son hangar",
+    "location_address": "13 rue Docteur Lardier, 88700 Rambervillers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rambervillers"
+  },
+  {
+    "uid": "27400440",
+    "title_fr": "La Moselle sous les Etoiles : exposition-photo de Cataldo Musto",
+    "description_fr": "Visitez une exposition de photographie sur la Moselle de nuit proposée par Cataldo Musto, photographe local, et admirez son magnifique travail au sein de cette remarquable ancienne église gothique re…",
+    "conditions_fr": "Entrée libre.",
+    "location_name": "Médiathèque Michel Bigaré",
+    "location_address": "Place Jeanne d'Arc, 57175 Gandrange",
+    "country_fr": "France (Métropole)",
+    "location_city": "Gandrange"
+  },
+  {
+    "uid": "827748",
+    "title_fr": "Levez les yeux ! Exposition « The People's Choice »",
+    "description_fr": "Dans le cadre des JEP, Passages propose un évènement inédit ! Les Troyens et les Troyennes sont invité.e.s à déposer 1 objet de leur choix qu'ils et elles considèrent comme une oeuvre d'art.",
+    "conditions_fr": null,
+    "location_name": "CAC Passages",
+    "location_address": "9 rue Jeanne d'Arc, 10000 Troyes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Troyes"
+  },
+  {
+    "uid": "85765300",
+    "title_fr": "Visite d'une chapelle du XIIe siècle, vestige d'un prieuré fontevriste !",
+    "description_fr": "Venez découvrir sur le mur d'enceinte de cet édifice, des graffitis médiévaux laissés là par les ouvriers artisans !",
+    "conditions_fr": "Gratuit. Sans réservation. Visite uniquement de l'extérieur.",
+    "location_name": "Chapelle de Saint-Mandé",
+    "location_address": "Saint-Mandé - D14, 86200 Mouterre-Silly",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mouterre-Silly"
+  },
+  {
+    "uid": "47857855",
+    "title_fr": "Partez à la découverte d'un orgue Cavaillé-Coll",
+    "description_fr": "Profitez d'une présentation de l’instrument et d'une illustration par une introduction à l’accompagnement liturgique.",
+    "conditions_fr": "Gratuit. Sans réservation.",
+    "location_name": "Église Saint-Pierre",
+    "location_address": "Rue du Général Ducournau, 63400 Orthez",
+    "country_fr": "France (Métropole)",
+    "location_city": "Orthez"
+  },
+  {
+    "uid": "30806589",
+    "title_fr": "La zone verte - Traversée sonore",
+    "description_fr": "Chronique d'une semaine de rencontres avec le quartier",
+    "conditions_fr": "Tarif gratuit",
+    "location_name": "Sotteville-lès-Rouen",
+    "location_address": "76300",
+    "country_fr": "France (Métropole)",
+    "location_city": "Sotteville-lès-Rouen"
+  },
+  {
+    "uid": "14915871",
+    "title_fr": "BÉBÉ ZÉRO DÉCHET & COUCHES LAVABLES",
+    "description_fr": "Avec le 8 Fablab.",
+    "conditions_fr": "Participation gratuite ou à prix libre, sur inscription",
+    "location_name": "8 Fablab Drôme",
+    "location_address": "Rue Courre Commere, 26400 Crest",
+    "country_fr": "France (Métropole)",
+    "location_city": "Crest"
+  },
+  {
+    "uid": "7433672",
+    "title_fr": "Atelier mensuel art plastiques ADO/ADULTE",
+    "description_fr": "Venez découvrir ou approfondir le dessin d'observation, la peinture, pastels.. Dans mon atelier ! Inscrivez vous vite, places limitées",
+    "conditions_fr": "Séance 2h, matériel inclus, 20€/pers.",
+    "location_name": "9 le hamel Bréel",
+    "location_address": "9 le Hamel 61100 Bréel",
+    "country_fr": "France (Métropole)",
+    "location_city": "Athis-Val-de-Rouvre"
+  },
+  {
+    "uid": "3660821",
+    "title_fr": "Blues Rock Soul à Nantes dans une colocation 🎸",
+    "description_fr": "Blues Rock Soul en guitare/voix dans la coloc de la clarté. Retrouvez des reprises de Led Zeppelin, Janis Joplin, et les Rolling Stones !",
+    "conditions_fr": null,
+    "location_name": "Coloc de la Clarté / SHOOTER ISLAND",
+    "location_address": "Nantes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "81628296",
+    "title_fr": "la villa Noailles, architecture de Robert Mallet-Stevens",
+    "description_fr": "visite commentée de l'architecture moderne dessinée par Robert Mallet-Stevens en 1924 pour les mécènes Charles et Marie-Laure de Noailles à Hyères",
+    "conditions_fr": "gratuit, sur inscription",
+    "location_name": "Villa Noailles",
+    "location_address": "Montée de Noailles, 83400 Hyères",
+    "country_fr": "France (Métropole)",
+    "location_city": "Hyères"
+  },
+  {
+    "uid": "24032828",
+    "title_fr": "Concert école de musique de Couëron",
+    "description_fr": "Concert école de musique de Couëron au Magasin à huile (Couëron)",
+    "conditions_fr": "Gratuit",
+    "location_name": "Magasin à huile",
+    "location_address": "Quai Jean-Pierre Fougerat, Couëron",
+    "country_fr": "France (Métropole)",
+    "location_city": "Couëron"
+  },
+  {
+    "uid": "12824290",
+    "title_fr": "VILLE ET VILLAGE DE LA REPRISE - Loudun – 86",
+    "description_fr": "Durant le mois de la transmission, la CMA Nouvelle-Aquitaine – VIENNE met à l’honneur les villes et villages de la reprise.  Le 27 novembre 2024, c'est la ville de LOUDUN qui sera récompensée.",
+    "conditions_fr": "Participation gratuite sur inscription au préalable avant le 15 novembre 2024",
+    "location_name": "CCPL 2 RUE DE LA FONTAINE D'ADAM 86200 LOUDUN",
+    "location_address": "2 RUE DE LA FONTAINE D'ADAM 86200 LOUDUN",
+    "country_fr": "France (Métropole)",
+    "location_city": "Loudun"
+  },
+  {
+    "uid": "36251415",
+    "title_fr": "Visite ornitho'",
+    "description_fr": "Héron cendré, grande aigrette, grèbe huppé... Le lac de Grand Lieu est un paradis pour les oiseaux. Chaque été, un observatoire en bois est installé sur le site de Pierre Aiguë.",
+    "conditions_fr": "Accès libre",
+    "location_name": "Observatoire de Pierres Aigües",
+    "location_address": "Chemin de la Pierre Aigue, Saint-Aignan de Grand Lieu",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Aignan-Grandlieu"
+  },
+  {
+    "uid": "44183933",
+    "title_fr": "Concert de chansignes",
+    "description_fr": "Biblis en folie 2024",
+    "conditions_fr": null,
+    "location_name": "Pôle culturel",
+    "location_address": "Impasse du Château, 52400 Bourbonne-les-Bains, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bourbonne-les-Bains"
+  },
+  {
+    "uid": "49139025",
+    "title_fr": "Vente de livres désherbés",
+    "description_fr": "Biblis en folie 2024",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Bibliothèque Chatulivre",
+    "location_address": "place du 19 mars 1962 26300 Chatuzange-le-Goubet",
+    "country_fr": "France (Métropole)",
+    "location_city": "Chatuzange-le-Goubet"
+  },
+  {
+    "uid": "4349686",
+    "title_fr": "Bingo-Biblio",
+    "description_fr": "Biblis en folie 2024",
+    "conditions_fr": "Entrée libre et gratuite.",
+    "location_name": "Médiathèques de CCA",
+    "location_address": "1 rue victor schoelcher 29900 concarneau",
+    "country_fr": "France (Métropole)",
+    "location_city": "Concarneau"
+  },
+  {
+    "uid": "27456856",
+    "title_fr": "Le Club Secret rencontre l'autrice-illustratrice Isabelle Maroger",
+    "description_fr": "Biblis en folie 2024",
+    "conditions_fr": null,
+    "location_name": "Bibliothèque Du 7e Gerland",
+    "location_address": "40 All. de Fontenay, 69007 Lyon, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lyon"
+  },
+  {
+    "uid": "40952679",
+    "title_fr": "Visite découverte du monde de l'Industrie",
+    "description_fr": "Venez découvrir le monde de l'industrie et ses métiers, à travers des ateliers de médiation participatifs et immersifs.",
+    "conditions_fr": null,
+    "location_name": "INDULO",
+    "location_address": "22D rue Decomberousse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Villeurbanne"
+  },
+  {
+    "uid": "50348543",
+    "title_fr": "FORINDUSTRIE, L’UNIVERS EXTRAORDINAIRE - Enedis",
+    "description_fr": "Forindustrie, l’Univers Extraordinaire est un outil pédagogique et innovant pour présenter la richesse des métiers de l’industrie aux jeunes en quête d’orientation et d’avenir.",
+    "conditions_fr": null,
+    "location_name": "Enedis Côte D'Azur",
+    "location_address": "le cannet",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Cannet"
+  },
+  {
+    "uid": "37870765",
+    "title_fr": "Semaine de l'Industrie 2024",
+    "description_fr": "Visite du Pôle Formation UIMM",
+    "conditions_fr": null,
+    "location_name": "Pôle Formation UIMM Eure",
+    "location_address": "422 Rue Henri Becquerel, 27000 Évreux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Évreux"
+  },
+  {
+    "uid": "65222798",
+    "title_fr": "Framatome x Forindustrie, l'univers extraordinaire",
+    "description_fr": "Forindustrie : un univers pour découvrir la richesse des métiers de l'industrie !",
+    "conditions_fr": null,
+    "location_name": null,
+    "location_address": null,
+    "country_fr": null,
+    "location_city": null
+  },
+  {
+    "uid": "34052168",
+    "title_fr": "L’uranium dans tous ses états",
+    "description_fr": "Découvrez le cycle de l’uranium, de la Mine au recyclage, en suivant Orane et Nium, deux personnages atypiques !",
+    "conditions_fr": null,
+    "location_name": null,
+    "location_address": null,
+    "country_fr": null,
+    "location_city": null
+  },
+  {
+    "uid": "11687735",
+    "title_fr": "[Mews Partners] Découverte du conseil en industrie et importance de la confiance en soi",
+    "description_fr": "[mews partners] découverte du conseil en industrie et importance de la confiance en soi",
+    "conditions_fr": null,
+    "location_name": "4 impasse d'Antin 75008 Paris",
+    "location_address": "4 impasse d'Antin, 75008 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "56007133",
+    "title_fr": "Visite de l'entreprise MARCEAU",
+    "description_fr": "Pour la semaine de l'industrie, l'entreprise MARCEAU ouvre ses portes afin de permettre aux collégiens de découvrir le milieu industriel dans lequel l'entreprise évolue.",
+    "conditions_fr": null,
+    "location_name": "MARCEAU",
+    "location_address": "113 rue des artisans - 25300 Doubs",
+    "country_fr": "France (Métropole)",
+    "location_city": "Doubs"
+  },
+  {
+    "uid": "29732602",
+    "title_fr": "VISITE DE L'ENTREPRISE HALTON",
+    "description_fr": "VISITE DE LA SOCIÉTÉ HALTON située à BETHUNE",
+    "conditions_fr": null,
+    "location_name": "HALTON",
+    "location_address": "Technoparc Futura, 62400 Béthune",
+    "country_fr": "France (Métropole)",
+    "location_city": "Béthune"
+  },
+  {
+    "uid": "11314557",
+    "title_fr": "Visite d'entreprise et Job Bating",
+    "description_fr": "Visite de site suivie d'un job dating",
+    "conditions_fr": null,
+    "location_name": "peignage dumortier Tourcoing",
+    "location_address": "TOURCOING",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "43032437",
+    "title_fr": "SOCIETE FROMAGERE DE RETIERS",
+    "description_fr": "Participation à l'action à destination des collégiens et lycéens et du grand public. l’animation est assurée par des industriels « experts métiers » en valorisant leur rôle dans le cycle de fabricati…",
+    "conditions_fr": null,
+    "location_name": "15 rue Collège 35500 Vitré",
+    "location_address": "15 rue Collège, 35500 Vitré",
+    "country_fr": "France (Métropole)",
+    "location_city": "Vitré"
+  },
+  {
+    "uid": "49523881",
+    "title_fr": "M-EXTEND",
+    "description_fr": "Participation à l'action à destination des collégiens et lycéens et du grand public. l’animation est assurée par des industriels « experts métiers » en valorisant leur rôle dans le cycle de fabricati…",
+    "conditions_fr": null,
+    "location_name": "Hôtel de Rennes Métropole, 4 Av. Henri Fréville, 35207 Rennes, France",
+    "location_address": "Hôtel de Rennes Métropole 4 Av. Henri Fréville, 35207 Rennes France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rennes"
+  },
+  {
+    "uid": "61351541",
+    "title_fr": "Visite de l'entreprise TOYOTA",
+    "description_fr": "Visite d'entreprise  découverte des métiers",
+    "conditions_fr": null,
+    "location_name": "TOYOTA",
+    "location_address": "ONNAING",
+    "country_fr": "France (Métropole)",
+    "location_city": "Onnaing"
+  },
+  {
+    "uid": "4023648",
+    "title_fr": "JPO de l'industrie STEVTISS SAS",
+    "description_fr": "Découvrir les métiers et les innovations de l’industrie du 18 au 29 novembre 2024 avec 68 entreprises et plus de 250 visites. une opportunité unique pour tous de voir le monde passionnant de l'indust…",
+    "conditions_fr": null,
+    "location_name": "Rue Joseph Dechelette, 42300 Roanne",
+    "location_address": "Rue Joseph Dechelette, 42300 Roanne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Roanne"
+  },
+  {
+    "uid": "73240592",
+    "title_fr": "Dans les coulisses de trois équipements sportifs manceaux : le Stade Marie-Marvingt",
+    "description_fr": "À l’occasion des Journées Nationales de l’Architecture, le CAUE de la Sarthe vous invite à découvrir des équipements sportifs du paysage manceau. Trois rendez-vous à ne pas manquer, animés par des ar…",
+    "conditions_fr": null,
+    "location_name": "Stade Marie-Marvingt",
+    "location_address": "Chemin aux Boeufs, 72000 Le Mans",
+    "country_fr": "France (Métropole)",
+    "location_city": "Changé"
+  },
+  {
+    "uid": "65745398",
+    "title_fr": "Atelier en KIT jeune public \"Cultive ta ville ! Vers une agriculture urbaine\"",
+    "description_fr": "Atelier pédagogique en KIT à telecharger gratuitement en ligne !",
+    "conditions_fr": "téléchargement gratuit",
+    "location_name": "Hôtel de Ville de Marseille",
+    "location_address": "Quai du Port 13002marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "88422064",
+    "title_fr": "CONCERT DU QUATUOR À CORDES LES AILES",
+    "description_fr": "Proposition de spectacle pour le catalogue culturel du Loiret",
+    "conditions_fr": null,
+    "location_name": "Département du Loiret",
+    "location_address": "Loiret",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "14476451",
+    "title_fr": "Musique ancienne | Les Apartés",
+    "description_fr": "PREMIÈRE PARTIE ANNULÉE | Participation des élèves de musique ancienne au cycle de concerts à la bougie de l'Ensemble baroque Stradivaria dans le cadre intimiste de La Chapelle de l’Immaculée.",
+    "conditions_fr": "18 € / 12 € / 3 € / Gratuit pour les élèves du Conservatoire.",
+    "location_name": "Chapelle de l'Immaculée",
+    "location_address": "6 Rue Malherbe, Nantes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "36659312",
+    "title_fr": "Marché du dimanche 14 juillet à Jouhet \"jouets et jeux\"",
+    "description_fr": "Marché des producteurs locaux autour d'un thème: \"jouets et jeux\"",
+    "conditions_fr": "entrée libre",
+    "location_name": "Jouhet",
+    "location_address": "Jouhet",
+    "country_fr": "France (Métropole)",
+    "location_city": "Jouhet"
+  },
+  {
+    "uid": "51142572",
+    "title_fr": null,
+    "description_fr": null,
+    "conditions_fr": null,
+    "location_name": "Bretterbude",
+    "location_address": "Niederbarnimstraße 9 10247 berlin",
+    "country_fr": "Allemagne",
+    "location_city": "Berlin"
+  },
+  {
+    "uid": "96100532",
+    "title_fr": null,
+    "description_fr": null,
+    "conditions_fr": null,
+    "location_name": "Gemeindesaal Wartenburgstraße",
+    "location_address": "Wartenburgstr. 7, 10963 Berlin",
+    "country_fr": "Allemagne",
+    "location_city": "Berlin"
+  },
+  {
+    "uid": "27692764",
+    "title_fr": null,
+    "description_fr": null,
+    "conditions_fr": null,
+    "location_name": "Stadtteilfest Siemensstadt",
+    "location_address": "Mäckeritzstraße 22 13629 Berlin",
+    "country_fr": "Allemagne",
+    "location_city": "Berlin"
+  },
+  {
+    "uid": "37359066",
+    "title_fr": "Eglise St-Benoît et St-Laurent, Saint-Benoît-des-Ombres (27)",
+    "description_fr": "Introduction aux Psaumes et visite aux flambeaux.",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Eglise de St-Benoit-des-Ombres",
+    "location_address": "Saint Benoit des Ombres",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Benoît-des-Ombres"
+  },
+  {
+    "uid": "14160576",
+    "title_fr": "Eglise St-Vaast, Bailleul (59)",
+    "description_fr": "Exposition & veillée de prière en l'honneur de la Vierge Marie.",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Bailleul",
+    "location_address": "Place Achille Liénart",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bailleul"
+  },
+  {
+    "uid": "31144505",
+    "title_fr": "Exposition \"Patrimoine en métamorphose : l'Abbaye du Ronceray de demain\".",
+    "description_fr": "Visite en autonomie de l'exposition Patrimoine en métamorphose : l'Abbaye du Ronceray de demain.",
+    "conditions_fr": null,
+    "location_name": "Abbaye du Ronceray (actuelle ENSAM)",
+    "location_address": "Place de la Laiterie, 49000 Angers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Angers"
+  },
+  {
+    "uid": "20837361",
+    "title_fr": "Supporting entrepeneurship & innovation in Belgium & Europe",
+    "description_fr": "Evenement organisé par AION Consulting en partenariat avec la CCIFB",
+    "conditions_fr": null,
+    "location_name": "Steigenberger",
+    "location_address": "Av. Louise 71, 1050 Bruxelles",
+    "country_fr": "Belgique",
+    "location_city": "Bruxelles"
+  },
+  {
+    "uid": "19131263",
+    "title_fr": "Les Enfants du Patrimoine : Parcours commenté d'un fort villageois",
+    "description_fr": "Parcours organisé par le CAUE du Puy-de-Dôme, à Saint-Floret (63)",
+    "conditions_fr": "Sur inscription",
+    "location_name": "Fort villageois de Saint-Floret",
+    "location_address": "Saint-Floret",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Floret"
+  },
+  {
+    "uid": "42872534",
+    "title_fr": "FORMATIONS initiation à l’urbanisme pour les nouveaux élus",
+    "description_fr": "Partenaire de l’Association des maires de Haute-Savoie, le CAUE de Haute-Savoie propose deux modules d’initiation à l’urbanisme pour les nouveaux élus",
+    "conditions_fr": "Sur inscription",
+    "location_name": "Amphithéâtre Tully",
+    "location_address": "Tully thonon les bains",
+    "country_fr": "France (Métropole)",
+    "location_city": "Thonon-les-Bains"
+  },
+  {
+    "uid": "48090904",
+    "title_fr": "Venez fêter le miel aux Ruchers du Gué !",
+    "description_fr": "Dégustation et vente",
+    "conditions_fr": "Entrée gratuite à la boutique",
+    "location_name": "Boutique Les Ruchers du Gué",
+    "location_address": "Rue du moulin David 17540 Le Gué-d'Alleré",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Gué-d'Alleré"
+  },
+  {
+    "uid": "73088547",
+    "title_fr": "HABITER - PATRICIA ALLIO",
+    "description_fr": "Ce monologue déconstruit avec humour les normes et stéréotypes de genre à travers une performance philosophique sur l’identité nomade.",
+    "conditions_fr": "De 5 à 31 €",
+    "location_name": "Théâtre de Poche - Hédé-Bazouges",
+    "location_address": "6 Rue Saint-Louis, 35630 Hédé-Bazouges",
+    "country_fr": "France (Métropole)",
+    "location_city": "Hédé-Bazouges"
+  },
+  {
+    "uid": "22827312",
+    "title_fr": "STARTING-BLOCK - La Collective ces filles-là",
+    "description_fr": "STARTING-BLOCK c’est un match-spectacle disputé par une équipe sportive féminine.",
+    "conditions_fr": "Plein : 9€ / Réduit : 7€ / Sortir ! : 4€",
+    "location_name": "L'Archipel",
+    "location_address": "bd commandant cousteau 35890 Laillé",
+    "country_fr": "France (Métropole)",
+    "location_city": "Laillé"
+  },
+  {
+    "uid": "66713093",
+    "title_fr": "Rize câlins",
+    "description_fr": "Jeux",
+    "conditions_fr": null,
+    "location_name": "Le Rize",
+    "location_address": "23 Rue Valentin Hauy, 69100 Villeurbanne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Villeurbanne"
+  },
+  {
+    "uid": "85002632",
+    "title_fr": "RECRUTEMENT SODEXO",
+    "description_fr": "Sodexo recherche pour sa cafétaria située au sein du Ministère Des Armées :",
+    "conditions_fr": null,
+    "location_name": "Paris",
+    "location_address": "75015 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "17761989",
+    "title_fr": "L'Europe commence dans ta ville",
+    "description_fr": "Rencontre de 28 jeunes français, allemands et polonais autour  du Triangle de Weimar et de l'engagement democratique de la jeunesse : à Weimar en avril, à Zamosc en juillet et à Blois en octobre 2023.",
+    "conditions_fr": null,
+    "location_name": "Parc des Prés Fichaux",
+    "location_address": "Bourges Boulevard de la République",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bourges"
+  },
+  {
+    "uid": "70416225",
+    "title_fr": "Biennale internationale de design graphique 2021 : Atelier Décollage par les Canailles",
+    "description_fr": "Décollage est un atelier de papiers découpés mobiles où les enfants sont invités à animer formes et couleurs par des systèmes de pop­up.",
+    "conditions_fr": "6€, sur inscription à resa@cndg.fr",
+    "location_name": "le Signe",
+    "location_address": "1 place Emile Gogenheim 52000 CHAUMONT",
+    "country_fr": "France (Métropole)",
+    "location_city": "Chaumont"
+  },
+  {
+    "uid": "82961682",
+    "title_fr": "Exposition Portrait Photo Culture",
+    "description_fr": "Découvrez une exposition de portraits photographiques de femmes bénéficiaires du Service d'Hébergement d'Urgence de l'AFEJI. Des portraits reflétant leurs personnalités et leurs identités culturelles.",
+    "conditions_fr": "Entrée libre.",
+    "location_name": "Médiathèque Andrée Chedid",
+    "location_address": "156 avenue Fin de la Guerre 59200 Tourcoing",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "24003852",
+    "title_fr": "ANNULÉ | Initiation informatique : nettoyer son PC | DÉCALÉ au 3 décembre",
+    "description_fr": "Vous remarquez des ralentissements ou des bugs au démarrage de votre ordinateur ou de certains logiciels ? Le pôle multimédia vous accompagne afin de redonner une seconde jeunesse à votre PC.",
+    "conditions_fr": "Gratuit, sur réservation. Public adulte.",
+    "location_name": "Ludomédiathèque Colette",
+    "location_address": "27 avenue Roger Salengro 59200 Tourcoing",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "59273796",
+    "title_fr": "À vos manettes",
+    "description_fr": "Kirby et ses alliés sur Switch",
+    "conditions_fr": "Entrée gratuite, sur réservation",
+    "location_name": "Bibliothèque annexe de Beaulieu",
+    "location_address": "4 Rue du Président Edouard Herriot, 59150 Wattrelos",
+    "country_fr": "France (Métropole)",
+    "location_city": "Wattrelos"
+  },
+  {
+    "uid": "9337785",
+    "title_fr": "Café langue français langue étrangère (FLE)",
+    "description_fr": "Vous apprenez le français ? Le français n'est pas votre langue maternelle et vous souhaitez mieux le maîtriser ? Venez discuter et échanger avec d'autres personnes autour d'un café. Avec la Cimade.",
+    "conditions_fr": "Gratuit, sur réservation. À partir de 14 ans.",
+    "location_name": "Ludomédiathèque Colette",
+    "location_address": "27 avenue Roger Salengro 59200 Tourcoing",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "65014141",
+    "title_fr": "En avant la musique à Lesquin",
+    "description_fr": "Retrouvez le programme de la médiathèque du centre culturel de Lesquin et Et pendant toute la soirée jusque 23h... Démonstration imprimante 3D, atelier créatif parents-enfants, jeu de piste",
+    "conditions_fr": "sur réservation",
+    "location_name": "Lesquin/Médiathèque municipale",
+    "location_address": "1 Rue Camille Claudel, 59810 Lesquin",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lesquin"
+  },
+  {
+    "uid": "17991716",
+    "title_fr": "Le gang des pelotes : atelier crochet intergénérationnel",
+    "description_fr": "Pour les grands comme pour les plus jeunes à partir de 7 ans, débutants ou confirmés, venez partager ces moments conviviaux avec nous.",
+    "conditions_fr": "Gratuit, sur réservation. À partir de 7 ans.",
+    "location_name": "Médiathèque André Malraux",
+    "location_address": "26 rue Famelart 59200 Tourcoing",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "85920754",
+    "title_fr": "THE LOVE BEATLES",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "30.99€",
+    "location_name": "L'Artea",
+    "location_address": "Rue du Cardinal Lavigerie, 13470 Carnoux-en-Provence",
+    "country_fr": "France (Métropole)",
+    "location_city": "Carnoux-en-Provence"
+  },
+  {
+    "uid": "75457977",
+    "title_fr": "Reusbi + Vaarnish + Mob",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "10€",
+    "location_name": "Baby Club",
+    "location_address": "2 rue André Poggioli, 13006 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "43756603",
+    "title_fr": "Journée Portes ouvertes",
+    "description_fr": "Venez à notre journée portes ouvertes (JPO) jeudi 22 septembre 2022. Trouvez toutes les informations dont vous avez besoin pour choisir la bonne formation et faire avancer votre projet professionnel.",
+    "conditions_fr": null,
+    "location_name": "Centre du Vigeant",
+    "location_address": "LE VIGEANT",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Vigeant"
+  },
+  {
+    "uid": "67468317",
+    "title_fr": "L'orchestre culinaire, atelier photo culinaire",
+    "description_fr": "Venez apprendre les bases de la photographie culinaire pour réaliser des photos alléchantes de nourriture.",
+    "conditions_fr": "Groupes information et réservation : 01 40 05 12 12 de 9h30 à 17h30, du lundi au vendredi ou resagroupescite@universcience.fr",
+    "location_name": "Cité des sciences et de l'Industrie",
+    "location_address": "30 Avenue Corentin Cariou, 75019 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "12733216",
+    "title_fr": "Église Saint-Georges, Richebourg (78)",
+    "description_fr": "Veillée de la saint Jean-Baptiste avec illumination à la bougie et chants",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Eglise Saint-Georges, Richebourg",
+    "location_address": "Rue Saint-Georges, Richebourg",
+    "country_fr": "France (Métropole)",
+    "location_city": "Richebourg"
+  },
+  {
+    "uid": "75220672",
+    "title_fr": "Exposition jeunesse - Association Arts Plastiques",
+    "description_fr": "Cette exposition est l'occasion de mettre en valeur les travaux des enfants effectués durant l'année.",
+    "conditions_fr": "Entrée libre aux horaires de la Source",
+    "location_name": "Roncq / Bibliothèque muncipale, La Source",
+    "location_address": "293 Rue de Lille, 59223 Roncq",
+    "country_fr": "France (Métropole)",
+    "location_city": "Roncq"
+  },
+  {
+    "uid": "73071785",
+    "title_fr": "JEFF CLARKE/ + DELICIEUX ENFANT",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "5€",
+    "location_name": "Les 9 Salopards",
+    "location_address": "2, rue Crudère 13006 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "82637403",
+    "title_fr": "Géométrie Variable",
+    "description_fr": "Compagnie du Faro - Matthieu Villatelle",
+    "conditions_fr": null,
+    "location_name": "Salle Jean Renoir",
+    "location_address": "7 Villa des Aubépines, 92270 Bois-Colombes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bois-Colombes"
+  },
+  {
+    "uid": "90310612",
+    "title_fr": "Patrouilles de Parapluies \"Sous les jupes des Femmes\"",
+    "description_fr": "Événement se déroulant dans le cadre de Semaine de la langue française et de la Francophonie 2023",
+    "conditions_fr": "Entrée libre, pas de limite de places",
+    "location_name": "Résidence Crous",
+    "location_address": "23 avenue de la convention 93000 Bobigny",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bobigny"
+  },
+  {
+    "uid": "87152055",
+    "title_fr": "La Fête des Francophonies",
+    "description_fr": "Événement se déroulant dans le cadre de Semaine de la langue française et de la Francophonie 2023",
+    "conditions_fr": "Sur inscription",
+    "location_name": "Ambassade du canada en Allemagne",
+    "location_address": "Leipziger Platz 17",
+    "country_fr": "Allemagne",
+    "location_city": "Berlin"
+  },
+  {
+    "uid": "22010261",
+    "title_fr": "Les plantes sauvages médicinales",
+    "description_fr": "Les plantes sauvages médicinales",
+    "conditions_fr": null,
+    "location_name": "Parc Départemental de Sully-sur-Loire",
+    "location_address": "Château de Sully-sur-Loire, Sully-sur-loire",
+    "country_fr": null,
+    "location_city": "Sully-sur-loire"
+  },
+  {
+    "uid": "90170003",
+    "title_fr": "Animation \"Jouons avec nos émotions\"",
+    "description_fr": "<b>Au programme :</b>\r\n15h -16h30\r\n- Atelier créatif\r\n- Jeu La planète des émotions\r\n- Lecture d'histoires\r\n\r\n16h30 - 17h  \r\nSpectacle \"Les émotions de Gribouille la grenouille\"",
+    "conditions_fr": null,
+    "location_name": "Place de la République",
+    "location_address": "Place de la République, Cugnaux",
+    "country_fr": null,
+    "location_city": null
+  },
+  {
+    "uid": "77345793",
+    "title_fr": "Granuplast",
+    "description_fr": "Granuplast, entreprise éco-engagée recrute!!!",
+    "conditions_fr": null,
+    "location_name": "Jassans-Riottier",
+    "location_address": "01480 Jassans-Riottier",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "7199937",
+    "title_fr": "Atelier Compenser son Handicap",
+    "description_fr": "Atelier Compenser son Handicap",
+    "conditions_fr": null,
+    "location_name": "Clermont-Ferrand",
+    "location_address": "63100 Clermont-Ferrand",
+    "country_fr": "France (Métropole)",
+    "location_city": "Clermont-Ferrand"
+  },
+  {
+    "uid": "85486826",
+    "title_fr": "Les matinales de l'intérim - StaffMatch Nantes",
+    "description_fr": "Rencontre avec l'agence StaffMatch : échange sur les offres d'emploi.",
+    "conditions_fr": null,
+    "location_name": "Saint-Sébastien-sur-Loire",
+    "location_address": "44230 Saint-Sébastien-sur-Loire",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Sébastien-sur-Loire"
+  },
+  {
+    "uid": "20954181",
+    "title_fr": "Recrutement Wib emploi",
+    "description_fr": "L'agence WIB emploi de Blangy sur Bresle est à la recherche pour ses clients de la Vallée de la Bresle de candidats désirant s'orienter dans le domaine de l 'Industrie. Des profils BTP sont égalem...",
+    "conditions_fr": null,
+    "location_name": "Blangy-sur-Bresle",
+    "location_address": "76340 Blangy-sur-Bresle",
+    "country_fr": "France (Métropole)",
+    "location_city": "Blangy-sur-Bresle"
+  },
+  {
+    "uid": "54323620",
+    "title_fr": "FORMATION  GRATUITE ET  REMUNEREE D'AGENT DE SURETE AEROPORTUAIRE",
+    "description_fr": "Formation d’Agent de sureté aéroportuaire  H/F",
+    "conditions_fr": null,
+    "location_name": "Roissy-en-France",
+    "location_address": "95700 Roissy-en-France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Roissy-en-France"
+  },
+  {
+    "uid": "78653792",
+    "title_fr": "Exposition  à la Chapelle Saint Vincent de Grignan d'artiste",
+    "description_fr": "La Chapelle Saint Vincent, baignée de lumière, recevra sous les vitraux d'Ann Véronica Janssens une sculpture en pierre sous forme d'arche réalisée par Laurent Costes, artiste tailleur de pierre.",
+    "conditions_fr": null,
+    "location_name": "Chapelle Saint Vincent",
+    "location_address": "allée du 11 novembre 1918, 26230 Grignan",
+    "country_fr": "France (Métropole)",
+    "location_city": "Grignan"
+  },
+  {
+    "uid": "32527878",
+    "title_fr": "Grainothèque",
+    "description_fr": "Mercredi 19 avril à 14h30\nMédiathèque Côte Pavée\nÉchanges de graines, plantes et savoirs.\nDurée : 2h",
+    "conditions_fr": null,
+    "location_name": "Médiathèque José Cabanis",
+    "location_address": "Médiathèque José Cabanis, Toulouse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "9527001",
+    "title_fr": "Semaine du Nucléaire en Normandie #opportunités #recrutement",
+    "description_fr": "Dans le cadre de la semaine nationale du Nucléaire, votre agence France Travail (ex Pôle Emploi) d'Elbeuf vous propose de participer à un Webinaire consacré à la présentation des métiers et des re...",
+    "conditions_fr": null,
+    "location_name": "Elbeuf",
+    "location_address": "76500 Elbeuf",
+    "country_fr": "France (Métropole)",
+    "location_city": "Elbeuf"
+  },
+  {
+    "uid": "58975589",
+    "title_fr": "LES JEUX RECRUTENT",
+    "description_fr": "Présentation de l'évènement \" les jeux recrutent\" du 14/03/24 qui aura lieu aux DOCKS D'AUBERVILLIERS de 09h30 à 17h00",
+    "conditions_fr": null,
+    "location_name": "Paris",
+    "location_address": "75018 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "33239088",
+    "title_fr": "Création d'entreprise / Soyez accompagnés - Les Déterminés",
+    "description_fr": "Les Déterminés est programme d'accompagnement à l'entrepreneuriat qui réunit toutes les clés pour entreprendre : formation, accompagnement, réseau et mentorat !",
+    "conditions_fr": null,
+    "location_name": "Rouen",
+    "location_address": "76000 Rouen",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rouen"
+  },
+  {
+    "uid": "23484891",
+    "title_fr": "Concours de caisse à savons",
+    "description_fr": "Journée concours de caisse à savons folklorique, buvette, restauration,...",
+    "conditions_fr": null,
+    "location_name": "Haussy (59)",
+    "location_address": "Place Jean jaures 59294 haussy",
+    "country_fr": "France (Métropole)",
+    "location_city": "Haussy"
+  },
+  {
+    "uid": "55857005",
+    "title_fr": "COSMIC GATE",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "De 5,99 à 22€",
+    "location_name": "Cabaret Aleatoire",
+    "location_address": "41 rue jobin, 13003 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "47405042",
+    "title_fr": "The Shakers",
+    "description_fr": "♫ROCKABILLY♫",
+    "conditions_fr": "Entrée libre",
+    "location_name": "La Maison Hantée",
+    "location_address": "10 rue Vian, 13006 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "73383951",
+    "title_fr": "Découverte des métiers du Service à la Personne",
+    "description_fr": "Réunion d'information collective",
+    "conditions_fr": null,
+    "location_name": "Lille",
+    "location_address": "59800 Lille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lille"
+  },
+  {
+    "uid": "94907491",
+    "title_fr": "CQPI (Certificat de Qualification Professionnelle Inter-branches)  AGENT LOGISTIQUE",
+    "description_fr": "Présentation du parcours de formation CQPI AGENT LOGISTIQUE",
+    "conditions_fr": null,
+    "location_name": "Solesmes",
+    "location_address": "59730 Solesmes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Solesmes"
+  },
+  {
+    "uid": "61626974",
+    "title_fr": "ateliers initiation sur tablette numérique",
+    "description_fr": "Vous avez plus de 60 ans, familiarisez-vous avec la tablette numérique tactile et apprenez à utiliser Internet en 8 séances gratuites. Tablettes fournies",
+    "conditions_fr": "Gratuit sur inscription",
+    "location_name": "Foyer familial",
+    "location_address": "8 avenue des Tilleuls 14340 Cambremer",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cambremer"
+  },
+  {
+    "uid": "34234786",
+    "title_fr": "Trucs et astuces pour une cuisine Zéro Déchet",
+    "description_fr": "Atelier zéro déchet",
+    "conditions_fr": "Gratuit, entrée libre",
+    "location_name": "Médiathèque La Grand-Plage",
+    "location_address": "2 rue Pierre Motte 59100 roubaix",
+    "country_fr": "France (Métropole)",
+    "location_city": "Roubaix"
+  },
+  {
+    "uid": "2252338",
+    "title_fr": "4 avril 2019 - « Elles innovent pour le Numérique »",
+    "description_fr": "2000 participantes, 35 partenaires entreprises, 20 partenaires de l’enseignement supérieur, 100 marraines 15 villes en France",
+    "conditions_fr": null,
+    "location_name": "Ecole d'ingénieur ESISAR",
+    "location_address": "50 rue Barthelemy de Laffemas, 26000 valence",
+    "country_fr": "France (Métropole)",
+    "location_city": "Valence"
+  },
+  {
+    "uid": "1620316",
+    "title_fr": "Les P'tites Explorations Sonores - La sieste musicale immersive",
+    "description_fr": "Spectacle jeune public suivi d’un goûter offert, dans le CAF’",
+    "conditions_fr": "De 4 à 6€",
+    "location_name": "25 de la Vallée",
+    "location_address": "25, rue des Fontaines Marivel 92370 CHAVILLE",
+    "country_fr": "France (Métropole)",
+    "location_city": "Chaville"
+  },
+  {
+    "uid": "44470969",
+    "title_fr": "Marché nocturne - Mercredi 25 octobre",
+    "description_fr": "Rdv place des Marronniers",
+    "conditions_fr": null,
+    "location_name": "Place des Marronniers",
+    "location_address": "Pl. des Marronniers 31700 Blagnac",
+    "country_fr": "France (Métropole)",
+    "location_city": "Blagnac"
+  },
+  {
+    "uid": "30808436",
+    "title_fr": "Visite libre du jardin L'Eure tranquille",
+    "description_fr": "La visite libre du jardin L'Eure Tranquille avec son exposition temporaire.",
+    "conditions_fr": "Entrée toutes les heures, réservation conseillée, 30 pers. max., prévoir smartphone.",
+    "location_name": "Jardin L'Eure tranquille",
+    "location_address": "5 rue de la Trigale, 27180 Les Ventes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Les Ventes"
+  },
+  {
+    "uid": "48455172",
+    "title_fr": "Visites commentées nocturnes à Lee Ufan Arles",
+    "description_fr": "À l'occasion de la 19ème édition des Nuits Européennes des Musées, les portes de Lee Ufan Arles seront ouvertes jusqu'à 21h et la soirée sera ponctuée de visites :",
+    "conditions_fr": "Entrées et visites commentées gratuites (réservation conseillée)",
+    "location_name": "Lee Ufan Arles",
+    "location_address": "5 rue Vernon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Arles"
+  },
+  {
+    "uid": "46690670",
+    "title_fr": "Visite de l'église Saint-Nizier d'Accolay",
+    "description_fr": "À l'occasion des Journées européennes du patrimoine, l'église Saint-Nizier d'Accolay vous ouvre ses portes. La paroisse est attestée dès la fin du VIe siècle. Vous pourrez admirer lors de votre visit…",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Église Saint-Nizier d'Accolay",
+    "location_address": "1 place de l'Église 89460 Accolay",
+    "country_fr": "France (Métropole)",
+    "location_city": "Deux Rivières"
+  },
+  {
+    "uid": "51527131",
+    "title_fr": "Visite et démonstration du pressoir de Cessey",
+    "description_fr": "À l'occasion des Journées européennes du patrimoine, accédez à ce pressoir d'usage communautaire, dont l'origine se situe entre le milieu du XVIIIe siècle et le début du XIXe siècle.",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Pressoir de Cessey",
+    "location_address": "Hameau de Cessey 21350 Vitteaux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Vitteaux"
+  },
+  {
+    "uid": "57238505",
+    "title_fr": "Deux églises qui surplombent Rocamadour, ça vaut le détour !",
+    "description_fr": "Rocamadour, une visite incontournable avec deux églises offrant des vues surprenantes :",
+    "conditions_fr": "Gratuit. Entrée libre. Pour plus de renseignements, veuillez appeler le : 05 65 33 29 84.",
+    "location_name": "Sanctuaires, églises de l'Hospitalet et de Mayrinhac-le-Francal",
+    "location_address": "46500 Rocamadour",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rocamadour"
+  },
+  {
+    "uid": "97165081",
+    "title_fr": "Visite libre de l'abbaye de Longues",
+    "description_fr": "A la sortie du village de Longues-sur-mer, l’ancienne abbaye Sainte-Marie, fondée au XIIe siècle, se cache le long de la petite route qui mène à Bayeux. Au premier abord, le visiteur n’en soupçonne n…",
+    "conditions_fr": "5€, gratuit <18 ans, 4€ (groupe à partir de 10 pers).",
+    "location_name": "Abbaye de Longues",
+    "location_address": "15-17 rue de l'Abbaye, 14400 Longues-sur-Mer",
+    "country_fr": "France (Métropole)",
+    "location_city": "Longues-sur-Mer"
+  },
+  {
+    "uid": "27567548",
+    "title_fr": "Visitez le plus vieux château d'Alsace",
+    "description_fr": "Découvrez le plus ancien château alsacien jamais découvert ! A quoi ressemblait cette batisse ? Camp romain, celtique ou médiéval ? Que vient faire le pape Léon IX dans cette histoire ? Pour la premi…",
+    "conditions_fr": "Entrée libre, visite sur inscription",
+    "location_name": "Purpurkopf",
+    "location_address": "Saegmuhl, Rosheim",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mollkirch"
+  },
+  {
+    "uid": "63134068",
+    "title_fr": "Parenthèse musicale",
+    "description_fr": "Restitution musicale",
+    "conditions_fr": null,
+    "location_name": "Puits Couriot - Parc-Musée de la Mine",
+    "location_address": "3, boulevard Maréchal Franchet D'esperey, 42000 Saint-Étienne, Loire, Auvergne-Rhône-Alpes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Étienne"
+  },
+  {
+    "uid": "31366189",
+    "title_fr": "Visite guidée de l'hôtel de la préfecture",
+    "description_fr": "L’hôtel de la préfecture occupe l’ancien palais épiscopal de Mâcon, siège de l’évêché, construit de 1618 à 1631. Les évêques de Mâcon ont résidé dans ce bâtiment jusqu’à la Révolution.",
+    "conditions_fr": "Inscription par téléphone ou courriel en indiquant le nom des visiteurs et l’horaire souhaité.",
+    "location_name": "Hôtel de la Préfecture",
+    "location_address": "196 rue de Strasbourg 71000 Mâcon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mâcon"
+  },
+  {
+    "uid": "69606192",
+    "title_fr": "Exposition : « Connaissance de Léo Drouyn »",
+    "description_fr": "Découvrez lors d'une exposition Leo Drouyn, archéologue, peintre, dessinateur et graveur français, né à Izon le 12 juillet 1816 et mort à Bordeaux le 4 août 1896, qui a laissé plus de 5 000 esquisses…",
+    "conditions_fr": "Gratuit. Entrée libre.",
+    "location_name": "Mairie",
+    "location_address": "46 rue Léo Drouyn, 33750 Saint-Quentin-de-Baron",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Quentin-de-Baron"
+  },
+  {
+    "uid": "31306395",
+    "title_fr": "Vivez la Ferme Sénéchal !",
+    "description_fr": "Dans le cadre des Journées Européennes du Patrimoine 2023 sur le thème « le patrimoine vivant », le Département du Pas-de-Calais s’associe à la Ferme Sénéchal pour proposer une découverte de ce lieu …",
+    "conditions_fr": "Réservations nécessaires pour les balades contées et l'escape game",
+    "location_name": "Ferme Sénéchal",
+    "location_address": "964 rue des Clercs Vieille-Chapelle",
+    "country_fr": "France (Métropole)",
+    "location_city": "Vieille-Chapelle"
+  },
+  {
+    "uid": "27738270",
+    "title_fr": "Notre région en automne - Conférence naturaliste",
+    "description_fr": "Une rencontre exceptionnelle pour découvrir la faune de notre région",
+    "conditions_fr": "Gratuit sans réservation, dans la limite des places disponibles",
+    "location_name": "Musée d'histoire naturelle de Lille",
+    "location_address": "23 rue Gosselet",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lille"
+  },
+  {
+    "uid": "93347682",
+    "title_fr": "Les Rendez-vous de l'Ailleurs",
+    "description_fr": "Club de lecture dédié aux littératures de l'imaginaire",
+    "conditions_fr": null,
+    "location_name": "médiathèque Espal",
+    "location_address": "62 rue de l'Estérel 72000 Le Mans",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le Mans"
+  },
+  {
+    "uid": "20010696",
+    "title_fr": "Féfé + 1ère partie",
+    "description_fr": "Figure de proue du Saian Supa Crew, Féfé est connu pour ses prestations scéniques mémorables & son répertoire mêlant soul, rap et chanson.",
+    "conditions_fr": "Réduit : 16€ • Prévente : 19€ • Sur place : 22€",
+    "location_name": "6PAR4",
+    "location_address": "177 rue du Vieux Saint Louis 53000 LAVAL",
+    "country_fr": "France (Métropole)",
+    "location_city": "Laval"
+  },
+  {
+    "uid": "93864119",
+    "title_fr": "AERO'NOW (RECHERCHE): L'Aéronautique Recrute! Vous êtes formé ou expérimenté dans ce secteur? Nous avons des opportunités d'emplois pour vous! ven...",
+    "description_fr": "AERO'NOW (ATELIER RECHERCHE):  Atelier à destination des demandeurs d'emplois ayant une 1ère expérience ou formation dans le secteur aéronautique.",
+    "conditions_fr": null,
+    "location_name": "Blagnac",
+    "location_address": "31700 Blagnac",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "82417109",
+    "title_fr": "BELLINWEL",
+    "description_fr": "Animations et jeux pour petits et grands, lots à gagner, moment de partage et de convivialité autour d'un repas traditionnel de Noël, cantiques de Noël avec BOKANNWEL",
+    "conditions_fr": null,
+    "location_name": "Bellefontaine",
+    "location_address": "Bellefontaine",
+    "country_fr": "Martinique",
+    "location_city": "Martinique"
+  },
+  {
+    "uid": "7974542",
+    "title_fr": "Échos de la Terre du Milieu de Westeros - Neko Light Orchestra",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "De 29 à 49€",
+    "location_name": "6Mic",
+    "location_address": "Chemin des Aubépines, 13090 Aix-en-Provence",
+    "country_fr": "France (Métropole)",
+    "location_city": "Aix-en-Provence"
+  },
+  {
+    "uid": "72758808",
+    "title_fr": "RENCONTREZ les AGENCES INTERIM de GRAY !",
+    "description_fr": "Les Agences Interim (ADECCO, CRIT INTERIM, MANPOWER, RANDSTAD et SUP INTERIM) seront présentes à l'Agence POLE EMPLOI ARC LES GRAY, le Mardi 16 JANVIER 2024 de 09h à 12h.",
+    "conditions_fr": null,
+    "location_name": "Arc-lès-Gray",
+    "location_address": "70100 Arc-lès-Gray",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "27923594",
+    "title_fr": "Recrutements restaurant AU BUREAU - Ambronay",
+    "description_fr": "Vous le savez peut-être déjà : un restaurant flambant neuf AU BUREAU ouvrira prochainement ses portes en 2024 à Ambronay (01500) !",
+    "conditions_fr": null,
+    "location_name": "Ambérieu-en-Bugey",
+    "location_address": "01500 Ambérieu-en-Bugey",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "50932753",
+    "title_fr": "Demandeur d'emploi : vous avez des questions sur votre retraite et les démarches à accomplir ?",
+    "description_fr": "Vous êtes demandeur d'emploi ? Vous approchez de la retraite et de nombreuses questions vous viennent à l'esprit.",
+    "conditions_fr": null,
+    "location_name": "Montbard",
+    "location_address": "21500 Montbard",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "96604712",
+    "title_fr": "Recrutement Agents de fabrication Randstad/Vandemoortele 25h/semaine",
+    "description_fr": "Randstad InHouse recrute des agents de fabrication/production en industrie agro alimentaire pour Vandemoortele",
+    "conditions_fr": null,
+    "location_name": "Reims",
+    "location_address": "51100 Reims",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "2534168",
+    "title_fr": "CORINNE VANGYSEL: IKIGAÏ",
+    "description_fr": "♫JAZZ♫",
+    "conditions_fr": "12€",
+    "location_name": "rouge belle de mai",
+    "location_address": "47 rue Fortuné Jourdan, 13003 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "48798234",
+    "title_fr": "Journées de la langue arabe",
+    "description_fr": "Saisir les évolutions de la langue arabe en compagnie des plus grands spécialistes",
+    "conditions_fr": "Entrée libre sur réservation",
+    "location_name": "Institut du monde arabe-Tourcoing",
+    "location_address": "9, rue Gabriel Péri 59200 Tourcoing",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tourcoing"
+  },
+  {
+    "uid": "17223148",
+    "title_fr": "Théâtre \"Gonflée à bloc\"",
+    "description_fr": "Réservez votre vendredi 19 janvier pour venir assister à la pièce de théâtre « Gonflée à Bloc » à 20h30 à l’Auditorium de l’espace Léo Lagrange place de la Belle Arche !",
+    "conditions_fr": "Billetterie en ligne - Tarif plein 10€ , Tarif réduit 5€",
+    "location_name": "Auditorium Rémy François",
+    "location_address": "Place de la belle arche, 45750 Saint Pryvé Saint Mesmin",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Pryvé-Saint-Mesmin"
+  },
+  {
+    "uid": "24763959",
+    "title_fr": "Visite commentée d'une amanderaie du Pithiverais",
+    "description_fr": "Visite commentée dans une amanderaie pour découvrir cette nouvelle production du Pithiverais.",
+    "conditions_fr": "Voir https://www.grandpithiverais.fr/visites/ateliers-visites-decouverte/visite-amanderaie/",
+    "location_name": "Amanderaie du Pithiverais",
+    "location_address": "Ramoulu",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "43713963",
+    "title_fr": "RECRUTEMENTS LA BELLE HENRIETTE AUX ACHARDS VIA L'AGENCE INTERIM ACTUAL / ERGOS",
+    "description_fr": "L'AGENCE INTERIM ACTUAL / ERGOS sera dans nos locaux pour vous proposer des postes pour la Belle Henriette, (Groupe Martinet fabrication de salades composées) :",
+    "conditions_fr": null,
+    "location_name": "Les Sables-d'Olonne",
+    "location_address": "85340 Les Sables-d'Olonne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Les Sables-d'Olonne"
+  },
+  {
+    "uid": "85019170",
+    "title_fr": "Atelier: Organiser son projet création/reprise d'entreprise",
+    "description_fr": "L'objectif est de vous permettre de vous informer et d'échanger sur les étapes de votre projet afin de mieux mener à bien votre projet. Cette réunion vous permettra d'identifier vos attentes et le...",
+    "conditions_fr": null,
+    "location_name": "Châteaurenard",
+    "location_address": "13160 Châteaurenard",
+    "country_fr": "France (Métropole)",
+    "location_city": "Châteaurenard"
+  },
+  {
+    "uid": "59419382",
+    "title_fr": "DP GENERIQUE - Découvrez vos potentiels pour tous les métiers",
+    "description_fr": "Êtes-vous fait(e) pour un des secteurs qui recrute près de chez vous ?",
+    "conditions_fr": null,
+    "location_name": "Thoiry",
+    "location_address": "01710 Thoiry",
+    "country_fr": "France (Métropole)",
+    "location_city": "Thoiry"
+  },
+  {
+    "uid": "2428428",
+    "title_fr": "Thixotropies",
+    "description_fr": "\"Thixotropies\", exposition d’œuvres de l'artiste Laure Delamotte-Legrand, explore l'instabilité et la dérive d'un littoral. Dans le cadre du festival Normandie Impressionniste 2024.",
+    "conditions_fr": "Inclus dans le billet d'entrée",
+    "location_name": "Les Pêcheries, musée de Fécamp",
+    "location_address": "3, quai Capitaine Jean Recher 76400 FÉCAMP",
+    "country_fr": "France (Métropole)",
+    "location_city": "Fécamp"
+  },
+  {
+    "uid": "55488010",
+    "title_fr": "Cinéma en plein air",
+    "description_fr": "Plongez dans une expérience cinématographique magique sous les étoiles le 6 juillet à 22h, au Château de Buc. Rejoignez-nous pour une soirée inoubliable, où convivialité et émotions se conjuguent !",
+    "conditions_fr": "Entrée libre - Vente de popcorn sur place",
+    "location_name": "Château de Buc",
+    "location_address": "20 rue Louis Massotte - Buc",
+    "country_fr": "France (Métropole)",
+    "location_city": "Buc"
+  },
+  {
+    "uid": "23777808",
+    "title_fr": "DECARBONATION DE LA CONSTRUCTION",
+    "description_fr": "Dans le cadre du cycle Re.sources, le 308MA accueille Domofrance pour une table ronde qui s'inscrit dans sa trajectoire décarbonation 2050 portée par son projet stratégique « vivant 2024-2028 ».",
+    "conditions_fr": "entrée libre",
+    "location_name": "Le 308 Maison de l'Architecture en Nouvelle-Aquitaine",
+    "location_address": "308 avenue Thiers 33100 BORDEAUX",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bordeaux"
+  },
+  {
+    "uid": "99049967",
+    "title_fr": "Matinée 100 % Formation : venez découvrir les formations du secteur du transport et de logistique !",
+    "description_fr": "Venez découvrir l'offre de formation transport - logistique de l'AFTRAL",
+    "conditions_fr": null,
+    "location_name": "Tulle",
+    "location_address": "19000 Tulle",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tulle"
+  },
+  {
+    "uid": "14589468",
+    "title_fr": "Stage de danse pour enfants et ados",
+    "description_fr": "avec sylvie minard",
+    "conditions_fr": "Tarifs Adh15€ - Non Adh 20€",
+    "location_name": "téléphoner pour le code porte quelques jours avant, Paris (75)",
+    "location_address": "22, Rue Delambre\ntéléphoner pour le code porte quelques jours avant, 75014 Paris, France",
+    "country_fr": null,
+    "location_city": null
+  },
+  {
+    "uid": "69852763",
+    "title_fr": "L'agriculture,  une reconversion qui a du sens !",
+    "description_fr": "L’agriculture, c’est plus de 100 métiers !",
+    "conditions_fr": null,
+    "location_name": "Limoges",
+    "location_address": "87100 Limoges",
+    "country_fr": "France (Métropole)",
+    "location_city": "Limoges"
+  },
+  {
+    "uid": "71174020",
+    "title_fr": "Soirée Saint-Patrick avec Inishowen à Crolles",
+    "description_fr": "avec Inishowen",
+    "conditions_fr": "Gratuit",
+    "location_name": "755, Avenue Ambroise Croizat, Crolles (38)",
+    "location_address": "755, Avenue Ambroise Croizat, 38920 Crolles, France",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "74722984",
+    "title_fr": "Apéro live music",
+    "description_fr": "Apéro live music au Bistrot Les Ga'ouch.",
+    "conditions_fr": "Public",
+    "location_name": "22 Place Dinan 44490 Le croisic",
+    "location_address": "22 Place Dinan 44490 Le croisic",
+    "country_fr": "France (Métropole)",
+    "location_city": "Le croisic"
+  },
+  {
+    "uid": "31599160",
+    "title_fr": "Les Locataires",
+    "description_fr": "Le “locataire” est la petite voix qui nous parle lorsque nous doutons.",
+    "conditions_fr": "Tarif : Plein: 13€ / Réduit : 8.50€ / Pass famille : 35€",
+    "location_name": "salle des fêtes",
+    "location_address": "Avenue des Sports, Evron",
+    "country_fr": "France (Métropole)",
+    "location_city": "Évron"
+  },
+  {
+    "uid": "2930036",
+    "title_fr": "Jazzycolors - Mehmet Ali Sanlıkol Trio",
+    "description_fr": "Jazzycolors reçoit cette année le pianiste de Jazz Mehmet Ali Sanlıkol qui sera accompagné de James Heazlewood-Dale à la basse acoustique et de George Lernis à la batterie et aux percussions.",
+    "conditions_fr": "Gratuit sur réservation jusqu'au 20/11/2017 (dans la limite des places disponibles)",
+    "location_name": "Goethe Institut",
+    "location_address": "17 avenue d'Iéna 75016 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "1895009",
+    "title_fr": "La vraie télépathie",
+    "description_fr": "Un hymne à l'amitié et à l'adolescence écrit par Antonio Carmona, qui peut jouer partout, notamment en établissement scolaire.",
+    "conditions_fr": "COUP DE PROJECTEUR",
+    "location_name": "CDN Besançon Franche-Comté",
+    "location_address": "Esplanade Jean-Luc Lagarce 25000 Besançon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Besançon"
+  },
+  {
+    "uid": "38845932",
+    "title_fr": "Visite guidée de la base de lancement V1",
+    "description_fr": "Journées européennes du patrimoine 2023",
+    "conditions_fr": "Participation libre.",
+    "location_name": "Base de lancement V1",
+    "location_address": "Avenue des comtes de Germiny, 76970 Motteville",
+    "country_fr": "France (Métropole)",
+    "location_city": "Motteville"
+  },
+  {
+    "uid": "33550622",
+    "title_fr": "Le défi sports historiques",
+    "description_fr": "Journées européennes du patrimoine 2023",
+    "conditions_fr": "activité en continu, entrée libre",
+    "location_name": "Amphithéâtre (Les arènes)",
+    "location_address": "Rond-point des Arènes 13200 Arles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Arles"
+  },
+  {
+    "uid": "65164040",
+    "title_fr": "Concert « Destins de femmes », par l’ensemble Sol sub Nube",
+    "description_fr": "Figures féminines du Moyen-Âge au XVIIe siècle",
+    "conditions_fr": "Réservation par mail ou téléphone (participation aux frais), pass sanitaire",
+    "location_name": "Temple protestant de Versailles",
+    "location_address": "3, rue Hoche - 78000  Versailles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Versailles"
+  },
+  {
+    "uid": "40316027",
+    "title_fr": "Atelier découverte métier de soudeur",
+    "description_fr": "Venez découvrir un atelier de chaudronnerie, les outils et techniques de soudage. Initiez-vous à la soudure",
+    "conditions_fr": "Sur inscription par téléphone auprès de Sophie au 05.45.67.57.22",
+    "location_name": "lycée jean caillaud",
+    "location_address": "rue puyguillen 16600 ruelle sur touvre",
+    "country_fr": "France (Métropole)",
+    "location_city": "Ruelle-sur-Touvre"
+  },
+  {
+    "uid": "89301418",
+    "title_fr": "CINÉMA EN PLEIN AIR / The French Dispatch (VOSTFR)",
+    "description_fr": "✨ Assistez à une séance de cinéma sous les étoiles dans le cadre de Vivez l'été ! ✨",
+    "conditions_fr": "GRATUIT, sans réservation",
+    "location_name": "Parc de la Feyssine",
+    "location_address": "11, avenue Monin à Villeurbanne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Villeurbanne"
+  },
+  {
+    "uid": "73087888",
+    "title_fr": "Salon Innov-Agri",
+    "description_fr": "Salon Innov-Agri",
+    "conditions_fr": "Voir https://inscription.innovagri.com/votre-demande-de-badge.htm",
+    "location_name": "Outarville",
+    "location_address": "Outarville",
+    "country_fr": null,
+    "location_city": "Outarville"
+  },
+  {
+    "uid": "8356904",
+    "title_fr": "Auto rétro : 45e bourse d’échanges",
+    "description_fr": "Exposition de voitures anciennes, démonstrations, animations...\n---------------------------------------------------------------\n\nOrganisée par le Club Auto Rétro Midi-Pyrénées (CARMP), cette 45e éditi",
+    "conditions_fr": null,
+    "location_name": "Hall Comminges",
+    "location_address": "Place d'Occitanie, 31770 Colomiers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Colomiers"
+  },
+  {
+    "uid": "82179752",
+    "title_fr": "Requiem de Verdi",
+    "description_fr": "Un véritable chef-d’oeuvre du chant choral.",
+    "conditions_fr": "Tarifs: 10 euros à 30 euros",
+    "location_name": "Opéra de Massy",
+    "location_address": "1 Place de France, 91300 Massy, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Massy"
+  },
+  {
+    "uid": "76463130",
+    "title_fr": "Séance",
+    "description_fr": "Salle Gérard Philipe",
+    "conditions_fr": null,
+    "location_name": "Salle de cinéma",
+    "location_address": "rue de la treille, 31550 cintegabelle",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cintegabelle"
+  },
+  {
+    "uid": "10166158",
+    "title_fr": "Exhibition Open Call \"An encounter with my fear\"",
+    "description_fr": "Within \"Nuits de la lecture\" program",
+    "conditions_fr": null,
+    "location_name": "Institut français de Jérusalem - antenne Ramallah",
+    "location_address": "Salam Street 12, Ramallah",
+    "country_fr": "Palestine",
+    "location_city": "Ramallah"
+  },
+  {
+    "uid": "90843930",
+    "title_fr": "Visite-guidée \"Les Mini Luce\"",
+    "description_fr": "De l'art dans le biberon ! Les plus petits sont les bienvenus au Musée de l'Hôtel-Dieu pour s'éveiller à l'art dès le plus jeune âge. Cette visite-jeu est spécialement conçue pour eux : un parc...",
+    "conditions_fr": "Gratuit, sur inscription",
+    "location_name": "Musée de l'Hôtel-Dieu",
+    "location_address": "1 rue Thiers 78200 Mantes-la-Jolie",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mantes-la-Jolie"
+  },
+  {
+    "uid": "29631052",
+    "title_fr": "Colloques Art/Sciences. Faire des bulles,tout un art, toute une science",
+    "description_fr": "Une rencontre entre artistes bulleurs et chercheurs spécialistes des bulles de savon",
+    "conditions_fr": null,
+    "location_name": "Laboratoire de Physique des Solides, bât.510. 91405 Orsay",
+    "location_address": "Orsay, rue Nicolas appert",
+    "country_fr": "France (Métropole)",
+    "location_city": "Orsay"
+  },
+  {
+    "uid": "28125091",
+    "title_fr": "Soirée Partenaires et Participants",
+    "description_fr": "Une soirée sympa pour découvrir les actions PALO ALTOURS et remercier nos partenaires",
+    "conditions_fr": "Sur inscription",
+    "location_name": "LE HQ Tours",
+    "location_address": "Impasse du Palais, 37000 Tours",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tours"
+  },
+  {
+    "uid": "82172512",
+    "title_fr": "2023 Vietnam Symposium in Supply Chain Management",
+    "description_fr": "Sustainability and Innovation",
+    "conditions_fr": null,
+    "location_name": "Thuongmai University, Hanoi, Vietnam",
+    "location_address": "Hanoi",
+    "country_fr": "Vietnam",
+    "location_city": "Hanoï"
+  },
+  {
+    "uid": "78788448",
+    "title_fr": "Soutenance de thèse de Madame Pascale GENTIL",
+    "description_fr": "\"Comment les managers de proximité développent-ils une capacité à mobiliser l'intelligence collective de leurs équipes ?\"",
+    "conditions_fr": null,
+    "location_name": "IGR-IAE Rennes",
+    "location_address": "11 rue Jean Macé 35700 Rennes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rennes"
+  },
+  {
+    "uid": "70357249",
+    "title_fr": "Village des sciences de Marseille",
+    "description_fr": "Animation « Les instruments scientifiques au service de la lutte contre le changement climatique »",
+    "conditions_fr": null,
+    "location_name": "Villa Méditerranée",
+    "location_address": "Prom. Robert Laffont, 13002 Marseille, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "99278762",
+    "title_fr": "Colloque Régulation de l'IA en Europe",
+    "description_fr": "Venez échanger lors de ce colloque international et pluridisciplinaire sur les propositions de réglementations de l'IA, leurs articulations avec les règles juridiques existantes et leurs lacunes.",
+    "conditions_fr": "Colloque en ligne et sans inscription. Connectez vous sur : https://bit.ly/3jStOyc",
+    "location_name": "SCAI",
+    "location_address": "4 Place Jussieu, 75005 Paris",
+    "country_fr": "France (Métropole)",
+    "location_city": "Paris"
+  },
+  {
+    "uid": "82740391",
+    "title_fr": "JOURNEE PORTES OUVERTS CROIX SAINT SIMON À MONTREUIL",
+    "description_fr": "L'IFPS de la Croix Saint-Simon prépare ses prochaines rentrées aux formations suivantes",
+    "conditions_fr": null,
+    "location_name": "IFPS CROIX SAINT SIMON",
+    "location_address": "81-83 rue Michelet 93100 MONTREUIL",
+    "country_fr": "France (Métropole)",
+    "location_city": "Montreuil"
+  },
+  {
+    "uid": "26640121",
+    "title_fr": "Contes du monde",
+    "description_fr": "Lecture de contes",
+    "conditions_fr": "À partir de 6 ans. Entrée libre et gratuite, dans la limite des places disponibles",
+    "location_name": "Cosmopolis",
+    "location_address": "18 rue Scribe - passage Graslin - 44000 Nantes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "62255543",
+    "title_fr": "Quinzaine Occitane - Lasgastina - Spectacle enfants",
+    "description_fr": "avec LAGASTINA",
+    "conditions_fr": "Enfant 3€, 1 accomp gratuit",
+    "location_name": "à préciser, Meilhan-sur-Garonne (47)",
+    "location_address": "à préciser, 47180 Meilhan-sur-Garonne, France",
+    "country_fr": null,
+    "location_city": null
+  },
+  {
+    "uid": "30708950",
+    "title_fr": "Concert de JEKYLL WOOD",
+    "description_fr": "Concert gratuit en plein air de JEKYLL WOOD",
+    "conditions_fr": "Gratuit",
+    "location_name": "plage de beaugency",
+    "location_address": "Quai de loire à Beaugency",
+    "country_fr": "France (Métropole)",
+    "location_city": "Beaugency"
+  },
+  {
+    "uid": "1696413",
+    "title_fr": "Fête de la Musique !",
+    "description_fr": "Avec Les enfants des écoles, l’Harmonie, Crick For Zic et Ster Glaz, la municipalité vous propose de fêter la musique : Au programme, pas moins de 8 rendez-vous musicaux gratuits !",
+    "conditions_fr": null,
+    "location_name": "Clos Noah - Cour de la Mairie",
+    "location_address": "94 rue du maréchal Foch cléry-saint-andré",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cléry-Saint-André"
+  },
+  {
+    "uid": "14463101",
+    "title_fr": "CHOURAVE X OMERTA INVITE POZCLOPE & NICOSPAD",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "De 0 à 10€",
+    "location_name": "Le Chapiteau",
+    "location_address": "38 Traverse Notre Dame de Bon Secours, 13003 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "98453440",
+    "title_fr": "Club lecture",
+    "description_fr": "Venez nous raconter vos lectures coup de cœur du moment et parler de la sélection littéraire du Prix européen de Cognac ayant pour thématique l’Italie.",
+    "conditions_fr": "Entrée libre et gratuite",
+    "location_name": "La Sabline - Médiathèque",
+    "location_address": "21 route de Montmorillon 86320 Lussac-les-Châteaux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lussac-les-Châteaux"
+  },
+  {
+    "uid": "33578319",
+    "title_fr": "Quizz découverte de la Fresque du climat",
+    "description_fr": "Venez découvrir la fresque du climat à travers un quizz",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Éco-atelier Pierre-Rabhi",
+    "location_address": "Allée du Canada, Meudon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Meudon"
+  },
+  {
+    "uid": "90278911",
+    "title_fr": "Ateliers sur l’engagement !",
+    "description_fr": "Info Jeunes te donne des idées pour t'engager dès tes 16 ans !",
+    "conditions_fr": null,
+    "location_name": "Info Jeunes Nouvelle-Aquitaine | Site de Bordeaux",
+    "location_address": "125 cours Alsace Lorraine",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bordeaux"
+  },
+  {
+    "uid": "31874800",
+    "title_fr": "Conférence débat \"Nos enfants et leur téléphone\"",
+    "description_fr": "Tu peux participer à cette conférence accompagné·e ou non de tes parents !",
+    "conditions_fr": "Entrée gratuite",
+    "location_name": "théâtre Méliès",
+    "location_address": "499 route de Toulouse 33140 Villenave d’Ornon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Villenave-d'Ornon"
+  },
+  {
+    "uid": "48936829",
+    "title_fr": "Exposition \"Regards maritimes 2024\"",
+    "description_fr": "Biblis en folie 2024",
+    "conditions_fr": null,
+    "location_name": "Bibliothèque des Annonciades",
+    "location_address": "18 Place de la Resistance, 62200 Boulogne-sur-Mer, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Boulogne-sur-Mer"
+  },
+  {
+    "uid": "28073270",
+    "title_fr": "Au cœur du produit : pourquoi et comment devenir Product Manager, UX Designer ou Chef de projet?",
+    "description_fr": "Plongez au cœur du produit, un univers où créativité et technologie se rencontrent. Animé par des experts OpenClassrooms et des alternants, ce webinaire vous initie aux rôles clés des Product Mana...",
+    "conditions_fr": null,
+    "location_name": "Cogolin",
+    "location_address": "83310 Cogolin",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cogolin"
+  },
+  {
+    "uid": "73803318",
+    "title_fr": "Qui portera la flamme olympique ?",
+    "description_fr": "Venez jouer avec nous et plongez dans l'effervescence du \"1er Grand Prix Noveltex\". L'un des participants de cette course aura l'honneur de porter la flamme olympique pour les JO 2024.",
+    "conditions_fr": null,
+    "location_name": "Musée de la chemiserie et de l'élégance masculine",
+    "location_address": "Rue Charles Brillaud 36200 Argenton-sur-Creuse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Argenton-sur-Creuse"
+  },
+  {
+    "uid": "52080772",
+    "title_fr": "Visite guidée du Musée du Hurepoix",
+    "description_fr": "Musée d'art et traditions populaires.",
+    "conditions_fr": null,
+    "location_name": "Musée Palaisien du Hurepoix",
+    "location_address": "5 place de la Victoire 91120 Palaiseau",
+    "country_fr": "France (Métropole)",
+    "location_city": "Palaiseau"
+  },
+  {
+    "uid": "92604381",
+    "title_fr": "Recrutement \" Paradis du Fruit \"",
+    "description_fr": "Vous êtes à la recherche d'une opportunité de carrière enrichissante dans un secteur dynamique ? Participez à notre Rencontre Employeur organisée dans le cadre d'une Information Collective dédiée ...",
+    "conditions_fr": null,
+    "location_name": "Strasbourg",
+    "location_address": "67200 Strasbourg",
+    "country_fr": "France (Métropole)",
+    "location_city": "Strasbourg"
+  },
+  {
+    "uid": "35238006",
+    "title_fr": "Un bassin de vie, deux cultures : Portraits de frontaliers entre Strasbourg et Kehl",
+    "description_fr": "Âgés de 2 à 87 ans, ils vivent, travaillent ou apprécient le charme de l'Eurométropole de Strasbourg et de Kehl. À travers leurs témoignages, découvrez les dynamiques de ce bassin de vie transfrontal…",
+    "conditions_fr": null,
+    "location_name": "Pont Beatus-Rhenanus",
+    "location_address": "Avenue du Rhin, 67000 Strasbourg",
+    "country_fr": "France (Métropole)",
+    "location_city": "Strasbourg"
+  },
+  {
+    "uid": "8943048",
+    "title_fr": "RECRUTEMENT KEOLIS PAYS NORMANDS",
+    "description_fr": "Venez participer à une réunion , pour vous informer sur les métiers de conducteurs de bus , Keolis vous propose une formation financée et rémunérée , pour devenir conducteur de bus",
+    "conditions_fr": null,
+    "location_name": "Mondeville",
+    "location_address": "14120 Mondeville",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mondeville"
+  },
+  {
+    "uid": "5620836",
+    "title_fr": "Nocturne -contes \"Petits peuples\"",
+    "description_fr": "Nains, korrigans, nutons, lutins, gnomes et autres petites créatures s’invitent à MOSAÏC pour préparer en douce la grande Nainvasion. Qui sont-ils ? D’où viennent-ils ? On vous dit tout !",
+    "conditions_fr": "6€/4€/17€",
+    "location_name": "MOSAÏC, le jardin des cultures",
+    "location_address": "103 Rue Guy Môquet, 59263 Houplin-Ancoisne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Houplin-Ancoisne"
+  },
+  {
+    "uid": "64058323",
+    "title_fr": "Pause nature au fil de l'eau : Bastien à l’accordéon",
+    "description_fr": "Venez voyager au travers de la musique à bord de la Décidée",
+    "conditions_fr": "3,5 € / 2 €",
+    "location_name": "Marcq-en-Baroeul",
+    "location_address": "rue du quai – Marcq-en-Baroeul",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marcq-en-Barœul"
+  },
+  {
+    "uid": "11559582",
+    "title_fr": "Balade naturaliste : rosées printanières",
+    "description_fr": "Une sortie animée par le Conservatoire national botanique de Bailleul",
+    "conditions_fr": "Gratuit",
+    "location_name": "Haubourdin",
+    "location_address": "Rue de la Canteraine, 59320  Haubourdin, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Haubourdin"
+  },
+  {
+    "uid": "57695656",
+    "title_fr": "Présentation des métiers de la petite enfance #Journées départementales des métiers de la petite enfance et de la jeunesse",
+    "description_fr": "Venez découvrir des métiers de la petite enfance!",
+    "conditions_fr": null,
+    "location_name": "Lorient",
+    "location_address": "56100 Lorient",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lorient"
+  },
+  {
+    "uid": "65217816",
+    "title_fr": "Découvre tes potentiels pour trouver ta voie professionnelle",
+    "description_fr": "Repère tes potentiels individuels et découvre les familles de métiers et les fonctions dans une structure, qui seront, pour toi, facteurs de réussite et de motivation.",
+    "conditions_fr": null,
+    "location_name": "Cité des Métiers de Saint-Quentin-en-Yvelines",
+    "location_address": "1 rue des Hêtres, Trappes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Trappes"
+  },
+  {
+    "uid": "42922107",
+    "title_fr": "Je découvre Job 78",
+    "description_fr": "Venez créer votre compte, déposer votre CV ou encore utiliser l'application mobile \"Job78\"",
+    "conditions_fr": null,
+    "location_name": "Cité des Métiers de Saint-Quentin-en-Yvelines",
+    "location_address": "1 rue des Hêtres, Trappes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Trappes"
+  },
+  {
+    "uid": "98235929",
+    "title_fr": "Valoriser votre look pour décrocher un emploi",
+    "description_fr": "Venez découvrir astuces et conseils pour vous mettre en valeur, révéler vos atouts, gagner en estime et en confiance.",
+    "conditions_fr": null,
+    "location_name": "Cité des Métiers de Saint-Quentin-en-Yvelines",
+    "location_address": "1 rue des Hêtres, Trappes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Trappes"
+  },
+  {
+    "uid": "2312391",
+    "title_fr": "PREVENTHYS présente son offre de formation",
+    "description_fr": "PREVENTHYS présente son offre de formation dans le secteur de la logistique",
+    "conditions_fr": null,
+    "location_name": "Sin-le-Noble",
+    "location_address": "59450 Sin-le-Noble",
+    "country_fr": "France (Métropole)",
+    "location_city": "Sin-le-Noble"
+  },
+  {
+    "uid": "52544921",
+    "title_fr": "Atelier curiosité : Sensualité et botanique, une histoire d'aphrodisiaque (dès 8 ans)",
+    "description_fr": "Lors de cet atelier, explorez le monde des plantes aphrodisiaques.",
+    "conditions_fr": "Inscription uniquement en ligne",
+    "location_name": "Les Jardins du Muséum à Borderouge",
+    "location_address": "24-26 Av. Maurice Bourgès-Maunoury, 31200 Toulouse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "8361277",
+    "title_fr": "RECRUTEMENT SERVAIR - préparateurs plateaux repas, agent en catering ou laverie H/F",
+    "description_fr": "Session de recrutement pour le goupe SERVAIR pour :",
+    "conditions_fr": null,
+    "location_name": "Tremblay-en-France",
+    "location_address": "93290 Tremblay-en-France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tremblay-en-France"
+  },
+  {
+    "uid": "3988000",
+    "title_fr": "Les trésors insoupçonnés de la forêt",
+    "description_fr": "Balade nature commentée.",
+    "conditions_fr": null,
+    "location_name": "Maison de l'ONF",
+    "location_address": "27, rue Edouard Charton - 78000 Versailles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Versailles"
+  },
+  {
+    "uid": "41915867",
+    "title_fr": "Stanis le Polak",
+    "description_fr": "Théâtre",
+    "conditions_fr": null,
+    "location_name": "Théâtre le Colisée",
+    "location_address": "Lens",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lens"
+  },
+  {
+    "uid": "6770205",
+    "title_fr": "Journée Portes Ouvertes au centre de vacances Le Val Saint-Paul",
+    "description_fr": "Journées portes ouvertes lors de la Semaine des métiers du tourisme",
+    "conditions_fr": null,
+    "location_name": "Centre de vacances Le Val St Paul",
+    "location_address": "227 Chemin des Closures 05200 Baratier",
+    "country_fr": "France (Métropole)",
+    "location_city": "Baratier"
+  },
+  {
+    "uid": "77582137",
+    "title_fr": "CAISSE DE RETRAITE: COMMENT CONSTITUER SON DOSSIER",
+    "description_fr": "Présentation à distance de l'offre de service CARSAT et plus précisément des étapes de la constitution d'un dossier de départ à la retraite. Pourquoi anticiper sa demande et comment accéder au dos...",
+    "conditions_fr": null,
+    "location_name": "Sète",
+    "location_address": "34200 Sète",
+    "country_fr": "France (Métropole)",
+    "location_city": "Sète"
+  },
+  {
+    "uid": "36964497",
+    "title_fr": "Café créateurs d'entreprise à la Fabrique à entreprendre à Diniapolis - Digne les Bains",
+    "description_fr": "Venez participer à l'atelier création d'entreprise \"Café créateurs\" organisé par la Fabrique à Entreprendre. Ce café créateurs sera coanimé avec un partenaire de la création d'entreprise et Pôle e...",
+    "conditions_fr": null,
+    "location_name": "Digne-les-Bains",
+    "location_address": "04000 Digne-les-Bains",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "59651945",
+    "title_fr": "Découverte des Métiers de la Gendarmerie",
+    "description_fr": "Venez découvrir les métiers de la gendarmerie et rencontrer un professionnel du secteur.",
+    "conditions_fr": null,
+    "location_name": "Saint-Pierre",
+    "location_address": "97432 Saint-Pierre",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Pierre"
+  },
+  {
+    "uid": "22147268",
+    "title_fr": "Scroll – Initiation à la création d’une image ou d’un texte à l’aide d’une intelligence artificielle",
+    "description_fr": "ChatGPT, Midjourney, DeepL… Comment fonctionnent les intelligences artificielles ?",
+    "conditions_fr": null,
+    "location_name": "Médiathèque Grand M",
+    "location_address": "37, avenue de la Reynerie",
+    "country_fr": null,
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "92929092",
+    "title_fr": "Carnaval à Saint-Lys",
+    "description_fr": "C’est les vacances il est temps d’en profiter pour préparer vos costumes sur le thème des \"Pirates\".\nRendez-vous samedi 2 mars sur le parking de l’Espace Gravette.",
+    "conditions_fr": "Libre et gratuite",
+    "location_name": "Parking Espace Gravette",
+    "location_address": "Saint-Lys",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Lys"
+  },
+  {
+    "uid": "74856907",
+    "title_fr": "Visite accompagné : La curiosité est-elle un défaut ?",
+    "description_fr": "Pour attiser votre curiosité , nous nous pencherons sur certaines pièces de la collection permanente… et il sera question de mémoire, de projets, de collection.",
+    "conditions_fr": "Tarifs (musée, expositions, jardin) : + 2 € pour la visite\nAdulte : 6€ | Réduit*: 4 € Enfant (- 12 ans) : Gratuit | Jeunes : Pass culture",
+    "location_name": "Musée Vouland",
+    "location_address": "17, rue Victor Hugo, 84000",
+    "country_fr": "France (Métropole)",
+    "location_city": "Avignon"
+  },
+  {
+    "uid": "20277911",
+    "title_fr": "🐓 👉 POPEYES NANTES : Ouverture restaurant - RECRUTEMENT EQUIPIERS POLYVALENTS H/F CDI",
+    "description_fr": "La célèbre enseigne de restauration rapide POPEYES, spécialisée dans le poulet, arrive en France !",
+    "conditions_fr": null,
+    "location_name": "Nantes",
+    "location_address": "44000 Nantes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "68181974",
+    "title_fr": "CITRAM - Visite entreprise / Découverte du métier de Conducteur de Bus",
+    "description_fr": "CITRAM Transdev vous ouvre ces portes pour vous faire une visite de leur société, de leur parc de véhicules.",
+    "conditions_fr": null,
+    "location_name": "Bassens",
+    "location_address": "33530 Bassens",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bassens"
+  },
+  {
+    "uid": "17479948",
+    "title_fr": "RECRUTEMENT INTERIM INHOUSE GESTAMP",
+    "description_fr": "Information collective en présence d'une collaboratrice RANDSTAD INHOUSE GESTAMP en charge du recrutement pour différents postes au sein de l'entreprise GESTAMP Champagney",
+    "conditions_fr": null,
+    "location_name": "Héricourt",
+    "location_address": "70400 Héricourt",
+    "country_fr": "France (Métropole)",
+    "location_city": "Héricourt"
+  },
+  {
+    "uid": "19675874",
+    "title_fr": "🔎 L' URSSAF et vous ! Clarifiez vos démarches administratives !",
+    "description_fr": "Vous avez pour projet d'être micro entrepreneur, travailleur indépendant ou en profession libérale, assistez à l'atelier animé par l'URSSAF pour y voir plus clair.  Vous assisterez à une réunion d...",
+    "conditions_fr": null,
+    "location_name": "Échirolles",
+    "location_address": "38130 Échirolles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Échirolles"
+  },
+  {
+    "uid": "8190842",
+    "title_fr": "RENCONTRE AVEC LA SOCIETE HIPPO NETT",
+    "description_fr": "Vous n'avez pas d'expérience préalable dans le domaine du nettoyage? Pas de problème!",
+    "conditions_fr": null,
+    "location_name": "Annecy",
+    "location_address": "74600 Annecy",
+    "country_fr": "France (Métropole)",
+    "location_city": "Annecy"
+  },
+  {
+    "uid": "34604037",
+    "title_fr": "Collecte de souvenirs autobiographiques - Du 23 février au 1er juin",
+    "description_fr": "Un projet collaboratif ouvert à toutes et tous en marge de l'accueil de la compagnie \"En compagnie des Barbares\" programmée à l'Escale de Tournefeuille lors de la Soirée 1+1 du samedi 1er juin !",
+    "conditions_fr": null,
+    "location_name": "Tournefeuille",
+    "location_address": "Tournefeuille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Tournefeuille"
+  },
+  {
+    "uid": "85743545",
+    "title_fr": "Rencontre employeurs: ETTIC et ADAPEI",
+    "description_fr": "Vous souhaitez travailler avec un public en situation de handicap et disposez soit d'un diplôme ou d'une expérience professionnelle dans le domaine (exemple: AES, Aide-Soignante, Auxiliaire de vie...",
+    "conditions_fr": null,
+    "location_name": "La Ferté-Bernard",
+    "location_address": "72400 La Ferté-Bernard",
+    "country_fr": "France (Métropole)",
+    "location_city": "La Ferté-Bernard"
+  },
+  {
+    "uid": "44670927",
+    "title_fr": "Trek Découverte Métiers",
+    "description_fr": "Visite du plateau technique de l'AFPA dans le cadre des métiers du tourisme et notamment de Guide Accompagnateur Touristique.",
+    "conditions_fr": null,
+    "location_name": "Lille",
+    "location_address": "59160 Lille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lomme"
+  },
+  {
+    "uid": "41815473",
+    "title_fr": "L'HÉRITAGE GOLDMAN",
+    "description_fr": "♫♫♫",
+    "conditions_fr": "De 49 à 69€",
+    "location_name": "le Dôme",
+    "location_address": "48 Avenue de Saint-Just, 13004 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "30123362",
+    "title_fr": "Papoter sans faim autour de l'exposition \"Allez, Roubaix jeunesse !\"",
+    "description_fr": "Papoter sans faim autour de l'exposition \"Allez, Roubaix jeunesse !\"",
+    "conditions_fr": "Réservations au plus tard le jeudi précédent la date souhaitée auprès du Service des publics. Tarif : 11€ + prix du repas.",
+    "location_name": "La Piscine - Musée d'Art et d' Industrie André Diligent",
+    "location_address": "23 rue de l'Espérance, Roubaix",
+    "country_fr": "France (Métropole)",
+    "location_city": "Roubaix"
+  },
+  {
+    "uid": "73239759",
+    "title_fr": "Accueil adulte-enfant",
+    "description_fr": "Espace de rencontre et jeux adulte-enfant, Veyrier, 13 mars 2024",
+    "conditions_fr": "2",
+    "location_name": "EVE Tour de Pinchat",
+    "location_address": "Chemin de la Tour-de-Pinchat 2 1234 Vessy",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "89084841",
+    "title_fr": "Halte Béthanie",
+    "description_fr": "Formation",
+    "conditions_fr": "Sur inscription",
+    "location_name": "La Chaise-Dieu - Abbaye",
+    "location_address": "1, place de l'Écho 43160 La Chaise Dieu France",
+    "country_fr": "France (Métropole)",
+    "location_city": "La Chaise-Dieu"
+  },
+  {
+    "uid": "12056114",
+    "title_fr": "Stage de karaté pour les Enfants (ouvert à tous)",
+    "description_fr": "Chaque année, nous organisons un stage de Karaté avec les enfants du club et les enfants extérieurs au club",
+    "conditions_fr": "Sur inscription via le formulaire disponible en ligne",
+    "location_name": "Complexe Jean Ménager",
+    "location_address": "1 rue des Collèges .Guérande",
+    "country_fr": "France (Métropole)",
+    "location_city": "Guérande"
+  },
+  {
+    "uid": "11842213",
+    "title_fr": "Rencontre avec Albert Dupontel pour son film Second Tour",
+    "description_fr": "Jeudi 31 août à 19h45, Avant-Première du film et rencontre avec Albert Dupontel, le réalisateur après la séance.",
+    "conditions_fr": null,
+    "location_name": "Cinémas STUDIO",
+    "location_address": "2 RUE DES URSULINES Tours",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "30568399",
+    "title_fr": "Qui a peur des plantes carnivores?",
+    "description_fr": "As-tu peur des plantes carnivores? Tu apprendras à les connaître et tu découvriras qu’elles apprécient les milieux humides et les moucherons divers qui y vivent également.",
+    "conditions_fr": "15 CHF.",
+    "location_name": "Conservatoire et Jardin botaniques",
+    "location_address": "Chemin de l'Impératrice 1, 1292 Chambésy",
+    "country_fr": "Suisse",
+    "location_city": "Chambésy"
+  },
+  {
+    "uid": "25936578",
+    "title_fr": "24 heures pour entreprendre, Rennes Saison 13",
+    "description_fr": "Challenge et sensibilisation à l'entrepreneuriat auprès des étudiant.e.s",
+    "conditions_fr": "sur inscription",
+    "location_name": "IUT de Rennes - Site Clos Courtel",
+    "location_address": "3 Rue du Clos Courtel, 35000 Rennes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rennes"
+  },
+  {
+    "uid": "12225643",
+    "title_fr": "ENTREPRISE EPHEMERE LA TIMONE",
+    "description_fr": "PRESENTATION DU PROJET \"ENTREPRISE EPHEMERE TIMONE\"",
+    "conditions_fr": null,
+    "location_name": "Marseille",
+    "location_address": "13005 Marseille",
+    "country_fr": "France (Métropole)",
+    "location_city": "Marseille"
+  },
+  {
+    "uid": "2062828",
+    "title_fr": "Rencontre Recrutement Handicap",
+    "description_fr": "Cap emploi 95 et France Travail organisent une Rencontre Recrutement & Handicap au bénéfice des demandeurs d'emploi en situation de handicap des zones de Garges-lès-Gonesse, Sarcelles, Gonesse et ...",
+    "conditions_fr": null,
+    "location_name": "Villiers-le-Bel",
+    "location_address": "95400 Villiers-le-Bel",
+    "country_fr": "France (Métropole)",
+    "location_city": "Villiers-le-Bel"
+  },
+  {
+    "uid": "77603849",
+    "title_fr": "Portes ouvertes",
+    "description_fr": "Venez découvrir la filière bilingue à Rosporden!",
+    "conditions_fr": "Entrée libre",
+    "location_name": "École élémentaire des Etangs",
+    "location_address": "5 rue Alsace Lorraine 29140 Rosporden",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rosporden"
+  },
+  {
+    "uid": "93086426",
+    "title_fr": "Forum des métiers du numérique : venez découvrir les métiers et rencontrer les professionnels du secteur",
+    "description_fr": "Un forum dédié au numérique pour :",
+    "conditions_fr": null,
+    "location_name": "Changé",
+    "location_address": "53810 Changé",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "10238229",
+    "title_fr": "Festival Les Tombées de la Nuit : Lignes Ouvertes • Compagnie Basinga",
+    "description_fr": "Depuis dix ans, Tatiana-Mosio Bongonga, une des rares femmes funambules au monde à évoluer à grande hauteur, organise en aventure collective ces performances aériennes en longue traversée et sans a...",
+    "conditions_fr": "Gratuit",
+    "location_name": "Esplanade Charles-de-Gaulle",
+    "location_address": "Esplanade Charles de Gaulle, Rennes, France",
+    "country_fr": "France (Métropole)",
+    "location_city": "Rennes"
+  },
+  {
+    "uid": "1112973",
+    "title_fr": "L'OFJ en fanfare !",
+    "description_fr": "Ensemble des cuivres et percussions de l’Orchestre Français des Jeunes",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Gare Saint Sauveur - Lille",
+    "location_address": "17 boulevard Jean-Baptiste Lebas",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lille"
+  },
+  {
+    "uid": "46706342",
+    "title_fr": "Conférence \"L'Archéologie de la Grande Guerre\"",
+    "description_fr": "Anthony BRUDNICKI, archéologue au Service Archéologie et Patrimoine du Département du Nord, évoque les découvertes archéologiques relatives à la Première Guerre Mondiale",
+    "conditions_fr": "gratuit",
+    "location_name": "Musée de la Bataille de Fromelles",
+    "location_address": "Rue de la Basse Ville, 59249 Fromelles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Fromelles"
+  },
+  {
+    "uid": "1362190",
+    "title_fr": "Tangopostale",
+    "description_fr": "14e édition du festival international de tango de Toulouse.",
+    "conditions_fr": "FULL Pass : 150€ | Pass ETERNA : 42€ | Pass NOCHE : 40€ | Pass WEEK-END SING SING : 55€ | Ventes de places à l'unité également | Certains rendez-vous sont gratuits",
+    "location_name": "Multi-lieux",
+    "location_address": "TOULOUSE",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "29013373",
+    "title_fr": "Exposition-Atelier \"La Ville en jeux\"",
+    "description_fr": "Pour apprendre la ville en jouant ! Pour petits et grands 😉",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Maison Clémangis",
+    "location_address": "1, placette du cloître, 51000 Châlons-en-Champagne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Châlons-en-Champagne"
+  },
+  {
+    "uid": "12826360",
+    "title_fr": "Théâtre : \"Les Pas Perdus\"",
+    "description_fr": "Par l'association Chacun son théâtre",
+    "conditions_fr": "15 € et 8 € pour les jeunes de moins de 15 ans, billetterie sur place et sur https://my.weezevent.com/les-pas-perdus",
+    "location_name": "Cinéma Jeanne D'Arc",
+    "location_address": "10 Rue du Cimetière Saint-Rieul, 60300 Senlis",
+    "country_fr": "France (Métropole)",
+    "location_city": "Senlis"
+  },
+  {
+    "uid": "29467506",
+    "title_fr": "Semaines de l'Art : \"Le XVIIIe siècle à la loupe\"",
+    "description_fr": "Un jeudi et un vendredi par mois, à 14h30, les musées vous proposent une initiation à l'histoire de l'art.",
+    "conditions_fr": "Tarif : 2€50 en plus des droits d'entrée. Inscription conseillée",
+    "location_name": "Musée d'Art et d'Archéologie",
+    "location_address": "Place Notre-Dame, 60300 Senlis",
+    "country_fr": "France (Métropole)",
+    "location_city": "Senlis"
+  },
+  {
+    "uid": "29220676",
+    "title_fr": "Cicatrices de guerre",
+    "description_fr": "22 auteurs se penchent sur la Première Guerre Mondiale",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Médiathèque municipale Senlis",
+    "location_address": "Place Saint Pierre, 60300 SENLIS",
+    "country_fr": "France (Métropole)",
+    "location_city": "Senlis"
+  },
+  {
+    "uid": "20595631",
+    "title_fr": "Sweet Books (2)",
+    "description_fr": "Lectures en VO anglaise",
+    "conditions_fr": null,
+    "location_name": "Médiathèque du Rize",
+    "location_address": "23 Rue Valentin Hauy, Villeurbanne",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "38807187",
+    "title_fr": "Conférence de J.F. Chemain : \"Ces idées chrétiennes qui ont boulversé le monde\"",
+    "description_fr": "Jean-François Chemain en conférence à Lille",
+    "conditions_fr": null,
+    "location_name": "Salle Estelle Faguette, Lille",
+    "location_address": "2 parvis Notre Dame de Pellevoisin",
+    "country_fr": "France (Métropole)",
+    "location_city": "Lille"
+  },
+  {
+    "uid": "65070875",
+    "title_fr": "Concert de piano",
+    "description_fr": "Le pianiste qui échappe aux étiquettes : Pierre-Yves Plat",
+    "conditions_fr": "14/10/5€",
+    "location_name": "Esplanade des Terres Neuves",
+    "location_address": "17 rue Robert Schuman, 33130 Bègles",
+    "country_fr": "France (Métropole)",
+    "location_city": "Bègles"
+  },
+  {
+    "uid": "12818613",
+    "title_fr": "Focus métiers transport & logistique par l’AFT",
+    "description_fr": "Vous êtes demandeur d'emploi et recherchez un poste dans un secteur innovant et qui recrute ? Le Transport est fait pour vous !",
+    "conditions_fr": null,
+    "location_name": "Aubusson",
+    "location_address": "23200 Aubusson",
+    "country_fr": "France (Métropole)",
+    "location_city": "Aubusson"
+  },
+  {
+    "uid": "4837056",
+    "title_fr": "Cueillette et cuisine de plantes sauvages",
+    "description_fr": "Au coté d'une experte de la cueillette sauvage, venez découvrir les plantes comestibles qui nous entourent, avant de les déguster et de les transformer.",
+    "conditions_fr": "Voir https://lesclesdelaferme.com",
+    "location_name": "Les Clés de la Ferme",
+    "location_address": "6 Route du Moulin Neuf, Chevannes",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "3578292",
+    "title_fr": "@telier – CYCLE DÉMATÉRIALISATION -2- Remplir des formulaires en ligne",
+    "description_fr": "CYCLE DÉMATÉRIALISATION -2- Remplir des formulaires en ligne\nMardi 29 mars de 15h à 16h30\nModalités d’accès à cette séance\nNiveau :  bases en informatique nécessaires\nCapacité d’accueil : 12 personnes",
+    "conditions_fr": null,
+    "location_name": "Médiathèque José Cabanis",
+    "location_address": "Médiathèque José Cabanis, Toulouse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "96150054",
+    "title_fr": "EN MUSIQUE",
+    "description_fr": "Petite musique de nuit au château",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Musée de l'Emperi",
+    "location_address": "montée du Puech 13300 Salon de PROVENCE",
+    "country_fr": "France (Métropole)",
+    "location_city": "Salon-de-Provence"
+  },
+  {
+    "uid": "56817807",
+    "title_fr": "Visites commentées : L'esquisse, précision insoupçonnée",
+    "description_fr": "Visite thématique sur les collections",
+    "conditions_fr": "Entrée libre",
+    "location_name": "Musée des Beaux-Arts de Libourne",
+    "location_address": "42 place Abel Surchamp 33500 Libourne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Libourne"
+  },
+  {
+    "uid": "61268962",
+    "title_fr": "Le Cinéma du réel en circulation 2021",
+    "description_fr": "Dimanche 29 mai à 15h\nEn trois courts métrages, ce programme questionne les formes du cinéma documentaire ou la manière\ndont il est aujourd’hui investi par les jeunes cinéastes depuis un cinéma de l’i",
+    "conditions_fr": null,
+    "location_name": "Médiathèque Grand M",
+    "location_address": "37, avenue de la Reynerie",
+    "country_fr": null,
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "3720038",
+    "title_fr": "Visite du jardin permacole de la selle, Saleux",
+    "description_fr": "Rendez-vous aux jardins 2024",
+    "conditions_fr": null,
+    "location_name": "Jardin de la selle",
+    "location_address": "173 rue catelas 80480 saleux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saleux"
+  },
+  {
+    "uid": "50893206",
+    "title_fr": "Les 5 sens au jardin gallo-romain",
+    "description_fr": "Des défis mettant à l’épreuve vos 5 sens vous attendent au jardin expérimental gallo-romain pour découvrir les plantes utilisées par les Romains !",
+    "conditions_fr": "Sans inscription, gratuit",
+    "location_name": "Site et jardin gallo-romain du Gurtelbach",
+    "location_address": "Rue de l'étang 67430 Dehlingen",
+    "country_fr": "France (Métropole)",
+    "location_city": "Dehlingen"
+  },
+  {
+    "uid": "48823945",
+    "title_fr": null,
+    "description_fr": null,
+    "conditions_fr": null,
+    "location_name": "Schloss Mosigkau",
+    "location_address": "Knobelsdorffallee 3, 06847 Dessau-Roßlau",
+    "country_fr": "Allemagne",
+    "location_city": "Dessau-Roßlau"
+  },
+  {
+    "uid": "88023526",
+    "title_fr": "Visite guidée « Le Muséum en sons »",
+    "description_fr": "Derrière les vitrines, il est parfois difficile de percevoir les sens du vivant. C’est ainsi qu’une visite sonore à la fois naturaliste et artistique du Muséum départemental vous sera proposée except…",
+    "conditions_fr": "Sur réservation par téléphone ou sur place, dans la limite des places disponibles. Gratuit.",
+    "location_name": "Jardin du Las - Muséum Départemental du Var",
+    "location_address": "737 chemin du Jonquet, 83200 Toulon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulon"
+  },
+  {
+    "uid": "52497429",
+    "title_fr": "Visite guidée « Oiseaux des jardins des Vaîtes »",
+    "description_fr": "Visite guidée avec une passionnée !",
+    "conditions_fr": null,
+    "location_name": "Les jardins des Vaîtes",
+    "location_address": "Rue Max Jacob, 25000 Besançon",
+    "country_fr": "France (Métropole)",
+    "location_city": "Besançon"
+  },
+  {
+    "uid": "4178292",
+    "title_fr": "1 Parrain 1 Emploi",
+    "description_fr": "Réseau, expérience, conseils… on aimerait tous avoir un coup de pouce pour entrer dans le grand bain (du marché du travail) !",
+    "conditions_fr": null,
+    "location_name": "Cagnes-sur-Mer",
+    "location_address": "06800 Cagnes-sur-Mer",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cagnes-sur-Mer"
+  },
+  {
+    "uid": "83981704",
+    "title_fr": "Venez rencontrer STS Handi Interim !",
+    "description_fr": "Venez rencontrer les recruteurs de STS Handi Intérim à l'agence du Grand Large.",
+    "conditions_fr": null,
+    "location_name": "Poitiers",
+    "location_address": "86000 Poitiers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Poitiers"
+  },
+  {
+    "uid": "40807769",
+    "title_fr": "TROUVER UN EMPLOI EN EQUIPE",
+    "description_fr": "Unissez vous ensemble au sein de l'Entreprise Ephémère et devenez chasseur d'emploi en étant accompagnés par vos coachs!",
+    "conditions_fr": null,
+    "location_name": "Soissons",
+    "location_address": "02200 Soissons",
+    "country_fr": "France (Métropole)",
+    "location_city": "Soissons"
+  },
+  {
+    "uid": "33665695",
+    "title_fr": "Venez tester vos compétences numériques avec Pix Emploi",
+    "description_fr": "Savez-vous que 75 % des emplois requièrent l’utilisation du numérique ?",
+    "conditions_fr": null,
+    "location_name": "Longuenesse",
+    "location_address": "62219 Longuenesse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Longuenesse"
+  },
+  {
+    "uid": "33415547",
+    "title_fr": "« Mesdames osez l’industrie » 24 AVRIL",
+    "description_fr": "« Mesdames osez l’industrie » est un parcours de découverte et immersif qui doit permettre de créer le déclic",
+    "conditions_fr": null,
+    "location_name": "Saint-Jean-de-Luz",
+    "location_address": "64500 Saint-Jean-de-Luz",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Jean-de-Luz"
+  },
+  {
+    "uid": "47268980",
+    "title_fr": "Recrutement ONET Nettoyage et Services JOP 2024",
+    "description_fr": "ONET Services à plusieurs postes  à pourvoir dans le cadre des JEUX OLYMPIQUES ET PARALYMPIQUES 2024 au sein du Golf National Saint Quentin en Yvelines.",
+    "conditions_fr": null,
+    "location_name": "Plaisir",
+    "location_address": "78370 Plaisir",
+    "country_fr": "France (Métropole)",
+    "location_city": "Plaisir"
+  },
+  {
+    "uid": "2809060",
+    "title_fr": "Porteurs de projet: s'installer à Moutiers!",
+    "description_fr": "Vous avez un projet de création d'entreprise et vous cherchez l'endroit idéal pour vous installer ? Rejoignez-nous à notre réunion d'information collective sur les avantages de s'installer à Moûti...",
+    "conditions_fr": null,
+    "location_name": "Moûtiers",
+    "location_address": "73600 Moûtiers",
+    "country_fr": "France (Métropole)",
+    "location_city": "Moûtiers"
+  },
+  {
+    "uid": "94397006",
+    "title_fr": "Forum Agricole",
+    "description_fr": "Job dating sur les métiers de l'agriculture.",
+    "conditions_fr": null,
+    "location_name": "Cazes-Mondenard",
+    "location_address": "82110 Cazes-Mondenard",
+    "country_fr": "France (Métropole)",
+    "location_city": "Cazes-Mondenard"
+  },
+  {
+    "uid": "85332779",
+    "title_fr": "Réunion d'information : FORMATION \"EMPLOYE DE COMMERCE\" (financée par la Région)",
+    "description_fr": "L'INFREP vous présentera le Titre Professionnel EMPLOYE(E) de COMMERCE (financé par la Région).",
+    "conditions_fr": null,
+    "location_name": "Périgueux",
+    "location_address": "24000 Périgueux",
+    "country_fr": "France (Métropole)",
+    "location_city": "Périgueux"
+  },
+  {
+    "uid": "85324559",
+    "title_fr": "Supporters de l'Emploi 2024 : « Le textile va vous surprendre »",
+    "description_fr": "UNITEX/",
+    "conditions_fr": null,
+    "location_name": "Saint-Étienne",
+    "location_address": "42000 Saint-Étienne",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Étienne"
+  },
+  {
+    "uid": "1678348",
+    "title_fr": "Réunion d'Information Création d'Entreprise",
+    "description_fr": "Informations générales sur la création d'entreprise",
+    "conditions_fr": null,
+    "location_name": "Remiremont",
+    "location_address": "88200 Remiremont",
+    "country_fr": "France (Métropole)",
+    "location_city": "Dommartin-lès-Remiremont"
+  },
+  {
+    "uid": "92940517",
+    "title_fr": "M'IMAGINER CREATEUR (créer ou reprendre une entreprise avec les aides France Travail)",
+    "description_fr": "Monter au 1er étage et aller dans la salle d'attente qui se trouvera à votre droite en haut des escaliers.",
+    "conditions_fr": null,
+    "location_name": "Saint-Ouen-l'Aumône",
+    "location_address": "95310 Saint-Ouen-l'Aumône",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Ouen-l'Aumône"
+  },
+  {
+    "uid": "36368500",
+    "title_fr": "Permanence SNC à France Travail de St Jean de Védas",
+    "description_fr": "Venez rencontrer l'association Solidarité Nouvelles face au Chômage à l'agence France Travail de St Jean De Védas et discuter avec des bénévoles, issus du monde de l'entreprise, qui peuvent vous a...",
+    "conditions_fr": null,
+    "location_name": "Saint-Jean-de-Védas",
+    "location_address": "34430 Saint-Jean-de-Védas",
+    "country_fr": "France (Métropole)",
+    "location_city": "Saint-Jean-de-Védas"
+  },
+  {
+    "uid": "99165407",
+    "title_fr": "Méthode de Recrutement par Simulation Agent thermal (h/f)",
+    "description_fr": "Dans le cadre de la Méthode de Recrutement par Simulation, \"MRS\" :",
+    "conditions_fr": null,
+    "location_name": "Dax",
+    "location_address": "40100 Dax",
+    "country_fr": "France (Métropole)",
+    "location_city": "Dax"
+  },
+  {
+    "uid": "56555227",
+    "title_fr": "JOB DATING \"Métiers du soin et de l'accompagnement à domicile\"",
+    "description_fr": "Dans le cadre de la semaine du soins et de l'accompagnement vous avez l'opportunité de rencontrer 3 employeurs: AZAE, SHIVA et ADHAP sur les métiers d'auxiliaire de vie, d'employé(e) de maison et ...",
+    "conditions_fr": null,
+    "location_name": "Nantes",
+    "location_address": "44300 Nantes",
+    "country_fr": "France (Métropole)",
+    "location_city": "Nantes"
+  },
+  {
+    "uid": "33279438",
+    "title_fr": "Vous recherchez un job d'été! Devenez accompagnant(e) en séjour de vacances pour personnes en situation de handicap.",
+    "description_fr": "Les Oeuvres Saint Léonard proposent chaque année des séjours de vacances partout en France pour ses résidents.",
+    "conditions_fr": null,
+    "location_name": "Couzon-au-Mont-d'Or",
+    "location_address": "69270 Couzon-au-Mont-d'Or",
+    "country_fr": "France (Métropole)",
+    "location_city": "Couzon-au-Mont-d'Or"
+  },
+  {
+    "uid": "20852446",
+    "title_fr": "Zoom sur les aides financières à la création d'entreprise",
+    "description_fr": "Faire le panorama des aides et identifier sous quelle forme peut se présenter une aide financière à la création  ou reprise d'entreprise. (Prime, subvention, avance remboursable, prêt d'honneur, p...",
+    "conditions_fr": null,
+    "location_name": "Mitry-Mory",
+    "location_address": "77290 Mitry-Mory",
+    "country_fr": "France (Métropole)",
+    "location_city": "Mitry-Mory"
+  },
+  {
+    "uid": "2880748",
+    "title_fr": "Rencontrez l'entreprise MSI et formez vous dans le textile de luxe !",
+    "description_fr": "Venez rencontrer l'entreprise MSI et les postes à pourvoir, formation assurée! Vous avez envie d'apprendre un nouveau métier, vous avez une appétence manuelle, n'hésitez plus !",
+    "conditions_fr": null,
+    "location_name": "Saint-Symphorien-de-Lay",
+    "location_address": "42470 Saint-Symphorien-de-Lay",
+    "country_fr": "France (Métropole)",
+    "location_city": "Neaux"
+  },
+  {
+    "uid": "42683918",
+    "title_fr": "Travailler pour France Travail, pourquoi pas vous ?",
+    "description_fr": "Venez participer à l'atelier Travailler pour France Travail dans le cadre des recrutements pour les postes de Conseillers/ères en Gestion des Droits, Conseillers/ères Demandeurs d'emploi, Conseill...",
+    "conditions_fr": null,
+    "location_name": "Toulouse",
+    "location_address": "31100 Toulouse",
+    "country_fr": "France (Métropole)",
+    "location_city": "Toulouse"
+  },
+  {
+    "uid": "27230630",
+    "title_fr": "FORUM AUTOMOBILE SYNERGIE",
+    "description_fr": "Forum automobile Synergie du 16 avril : perspectives de recrutement + découverte des métiers de l'industrie automobile",
+    "conditions_fr": null,
+    "location_name": "Famars",
+    "location_address": "59300 Famars",
+    "country_fr": "France (Métropole)",
+    "location_city": "Aulnoy-lez-Valenciennes"
+  },
+  {
+    "uid": "73222177",
+    "title_fr": "Atelier informatique",
+    "description_fr": "France Connect, création d'espaces",
+    "conditions_fr": "Gratuit. Sur inscription.",
+    "location_name": "Médiathèque municipale Senlis",
+    "location_address": "Place Saint Pierre, 60300 SENLIS",
+    "country_fr": "France (Métropole)",
+    "location_city": "Senlis"
+  },
+  {
+    "uid": "84608485",
+    "title_fr": "REPORTÉ : Concert à la médiathèque l'Albatros d'Armentières",
+    "description_fr": "Concert organisé dans le cadre de la « Nuit du Jazz »",
+    "conditions_fr": "sur réservation",
+    "location_name": "Médiathèque l'Albatros",
+    "location_address": "rue Paul Pouchain",
+    "country_fr": "France (Métropole)",
+    "location_city": "Armentières"
+  },
+  {
+    "uid": "61737938",
+    "title_fr": "REPORTÉ : Réveil des archives sonores X Label Suisse: Serge Vuille d'Ensemble Contrechamps au MEG",
+    "description_fr": "DJ-set de Serge Vuille d'Ensemble Contrechamps en partenariat avec le festival Label Suisse. Jardin du MEG. Le jeudi 11 août à 19h.",
+    "conditions_fr": "CHF 0.-",
+    "location_name": "MEG",
+    "location_address": "Boulevard Carl-VOGT 65, 1205 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "86043795",
+    "title_fr": "«Spécial été» : un objet, un son, une histoire: à la découverte de Congo Square",
+    "description_fr": "Visite en famille pour découvrir un aspect des riches collections du MEG. Bibliothèque et exposition permanente. Le vendredi 7 juillet à 15h.",
+    "conditions_fr": "CHF 0.-",
+    "location_name": "Bibliothèque du musée d'Ethnographie de Genève (MEG)",
+    "location_address": "Carl-Vogt 65, 1205 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "1860408",
+    "title_fr": "Orchestre symphonique pour l’éradication de la traite des êtres humains",
+    "description_fr": "Grand concert pour l’éradication de la traite des êtres humains, 10 mars 2023, 19h30, Victoria Hall",
+    "conditions_fr": "Gratuit sur réservation. Points de retrait des billets:\nEspace Ville de Genève, Boulevard Carl-Vogt 2\nCité Seniors, Rue de Lausanne 62\nGenève-Tourisme, Quai du Mont-Blanc 2\nMaison des arts du Grütli, Rue du Général-Dufour 16",
+    "location_name": "Victoria Hall",
+    "location_address": "Rue du Général-DUFOUR 14, 1204 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "9416376",
+    "title_fr": "Répétition publique Justice",
+    "description_fr": "Avez-vous déjà assisté à une répétition au GTG?",
+    "conditions_fr": "0",
+    "location_name": "Grand Théâtre de Genève",
+    "location_address": "Place de Neuve 3, 1204 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "95871310",
+    "title_fr": "Lire avec bébé",
+    "description_fr": "Lire avec bébé // bibliothèque de la Cité 11 mars 8 avril 13 mai à 10h00 // 0-2ans",
+    "conditions_fr": "0.-",
+    "location_name": "Bibliothèque de la Cité",
+    "location_address": "Place des Trois-Perdrix 5, 1204 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Genève"
+  },
+  {
+    "uid": "57826528",
+    "title_fr": "Les Siècles",
+    "description_fr": "-",
+    "conditions_fr": "Merci d’adresser, par la poste, vos billets et coordonnées bancaires (IBAN) à Service culturel Migros Genève, rue du Commerce 9, 1204 Genève",
+    "location_name": "Victoria Hall",
+    "location_address": "Rue du Général-Dufour 14, 1204 Genève",
+    "country_fr": "Suisse",
+    "location_city": "Geneva"
+  },
+  {
+    "uid": "38833194",
+    "title_fr": "Recrutement de commerciaux sur Beauvais par Ouiglass",
+    "description_fr": "L'entreprise Ouiglass de Beauvais recherche 5 commerciaux en CDI temps plein afin de promouvoir les services de pose et de réparation de pare-brise auprès d'un portefeuille de clients particuliers...",
+    "conditions_fr": null,
+    "location_name": "Beauvais",
+    "location_address": "60000 Beauvais",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "60328655",
+    "title_fr": "Recrutement Fleury Michon",
+    "description_fr": "En partenariat avec Pole Emploi, Fleury Michon recrute pour le site de Chantonnay en contrat à durée déterminée jusqu’au mois de Septembre 2024.  Ces postes sont à pourvoir en 2X8 et le samedi ou ...",
+    "conditions_fr": null,
+    "location_name": "Chantonnay",
+    "location_address": "85110 Chantonnay",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "21997284",
+    "title_fr": "Présentation des métiers de la Sécurité",
+    "description_fr": "Présentation du secteur de la Sécurité au travers des formations et des opportunités d'emplois offerts dans ce domaine.",
+    "conditions_fr": null,
+    "location_name": "Mantes-la-Jolie",
+    "location_address": "78200 Mantes-la-Jolie",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "62634383",
+    "title_fr": "Recrutement : Même sans CV ca peut matcher",
+    "description_fr": "L'agence intérim RANDSTAD en partenariat avec V and B CHATEAUBERNARD et les entreprises du secteur vous proposent  un forum de recrutement sans CV.",
+    "conditions_fr": null,
+    "location_name": "Châteaubernard",
+    "location_address": "16100 Châteaubernard",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "46490360",
+    "title_fr": "Visio Emploi secteur de la MEL",
+    "description_fr": "Envie de trouver un emploi sur le secteur de la métropole lilloise ? Débutant ou expérimenté ? Cadre ? Envie de vous former avant embauche en contrat d'apprentissage ou via une action de formation...",
+    "conditions_fr": null,
+    "location_name": "La Madeleine",
+    "location_address": "59110 La Madeleine",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  },
+  {
+    "uid": "39635162",
+    "title_fr": "Les Mardis de la Sécurité",
+    "description_fr": "PARTICIPEZ À L’AVENTURE DES JEUX OLYMPIQUES ET PARALYMPIQUES PARIS 2024, EN DEVENANT AGENT DE SÉCURITÉ PRIVÉE",
+    "conditions_fr": null,
+    "location_name": "Garges-lès-Gonesse",
+    "location_address": "95140 Garges-lès-Gonesse",
+    "country_fr": "France (Métropole)",
+    "location_city": null
+  }
+]
