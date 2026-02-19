@@ -47,10 +47,128 @@ body {
   font-size: 1.6rem;
 }
 
+.last-news-card {
+  margin-bottom: 0.95rem;
+  padding: 0.85rem 0.95rem;
+  border: 2px solid #2a1b14;
+  border-radius: 14px;
+  background:
+    radial-gradient(circle at 12% 16%, rgba(255, 235, 207, 0.65), rgba(0, 0, 0, 0) 38%),
+    linear-gradient(135deg, rgba(255, 243, 225, 0.96), rgba(236, 208, 168, 0.92));
+  box-shadow: 0 8px 20px rgba(43, 29, 22, 0.18);
+}
+
+.last-news-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 0.55rem;
+}
+
+.last-news-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #2a1b14;
+}
+
+.last-news-pill {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #2a1b14;
+  background: rgba(254, 230, 197, 0.95);
+  border: 1px solid #b98938;
+  border-radius: 999px;
+  padding: 0.2rem 0.5rem;
+}
+
+.last-news-carousel {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.last-news-window {
+  flex: 1;
+  overflow: hidden;
+}
+
+.last-news-track {
+  display: flex;
+  transition: transform 260ms ease;
+}
+
+.last-news-slide {
+  width: 100%;
+  min-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.6rem;
+}
+
+.last-news-item {
+  border: 1px solid #b98938;
+  border-radius: 10px;
+  background: rgba(247, 237, 224, 0.85);
+  padding: 0.6rem 0.65rem;
+}
+
+.last-news-label {
+  margin: 0 0 0.25rem;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  color: #6a4b35;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.last-news-value {
+  margin: 0;
+  color: #2a1b14;
+  font-size: 1.12rem;
+  font-weight: 800;
+}
+
+.last-news-sub {
+  margin: 0.1rem 0 0;
+  color: #2a1b14;
+  font-size: 0.84rem;
+  font-weight: 600;
+}
+
+.last-news-nav {
+  width: 32px;
+  min-width: 32px;
+  height: 32px;
+  border: 1px solid #7a552f;
+  border-radius: 999px;
+  background: #fff2df;
+  color: #2a1b14;
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.last-news-nav:hover {
+  background: #f2d8b6;
+}
+
+.last-news-index {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+  color: #5d3d28;
+  text-align: right;
+}
+
 .filter-bar {
   margin-bottom: 0.9rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
+  flex-wrap: wrap;
   align-items: center;
   gap: 1rem;
   padding: 0.75rem 0.9rem;
@@ -62,6 +180,8 @@ body {
 .filter-label {
   color: #000;
   font-weight: 600;
+  display: flex;
+  align-items: center;
 }
 
 .filter-select {
@@ -74,9 +194,89 @@ body {
   border-radius: 8px;
 }
 
+.filter-search {
+  min-width: 260px;
+}
+
+.city-search-wrap {
+  position: relative;
+}
+
+.filter-input {
+  margin-left: 0.4rem;
+  padding: 0.45rem 0.6rem;
+  min-width: 220px;
+  font-size: 0.95rem;
+  background-color: #f7ede0;
+  color: #000;
+  border: 2px solid #b98938;
+  border-radius: 8px;
+}
+
+.city-suggestions {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 54px;
+  z-index: 20;
+  width: 250px;
+  list-style: none;
+  margin: 0;
+  padding: 0.3rem;
+  border: 2px solid #b98938;
+  border-radius: 10px;
+  background: #f7ede0;
+  box-shadow: 0 8px 18px rgba(43, 29, 22, 0.2);
+}
+
+.city-suggestion-btn {
+  width: 100%;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  color: #2a1b14;
+  padding: 0.4rem 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.city-suggestion-btn:hover {
+  background: #efd3ac;
+}
+
+.filter-reset-btn {
+  margin-left: auto;
+  width: 34px;
+  min-width: 34px;
+  height: 34px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  line-height: 1;
+  border-radius: 999px;
+}
+
+.reset-icon {
+  width: 16px;
+  height: 16px;
+  display: block;
+  color: #2a1b14;
+}
+
+.filter-reset-btn::before {
+  content: "\21BB";
+  font-size: 18px;
+  line-height: 1;
+  color: #2a1b14;
+}
+
+
 .filter-count {
   font-size: 0.92rem;
   color: #000;
+  font-weight: 600;
+  margin-left: auto;
 }
 
 .table-shell {
@@ -245,4 +445,19 @@ body {
 
 .modal-close-btn {
   margin-top: 0.85rem;
+}
+
+@media (max-width: 880px) {
+  .filter-reset-btn,
+  .filter-count {
+    margin-left: 0;
+  }
+
+  .last-news-carousel {
+    gap: 0.35rem;
+  }
+
+  .last-news-slide {
+    grid-template-columns: 1fr;
+  }
 }
