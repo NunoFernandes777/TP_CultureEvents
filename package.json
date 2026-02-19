@@ -6,6 +6,10 @@
   "scripts": {
     "dev": "next dev",
     "dev:restart": "npx nodemon --watch app --watch lib --watch next.config.* --ext js,jsx,ts,tsx,mjs,cjs,json --exec \"next dev\"",
+    "etl:collect-v2": "node script/collectdonnesV2.js",
+    "etl:enrich-v2": "node script/enrichdataV2.js",
+    "etl:to-mongo-v2": "node script/v2ToMongo.js",
+    "etl:enrich-v2:mysql": "node script/enrichdataV2.js --sync-mysql",
     "etl:mongo-to-mysql": "node script/mongoToMySQL.js",
     "test": "node --test \"tests/**/*.test.js\"",
     "test:unit": "node --test \"tests/unit/**/*.test.js\"",
