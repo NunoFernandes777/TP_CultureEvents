@@ -1,6 +1,6 @@
 import { MongoClient, ObjectId } from "mongodb";
 
-const MONGO_URI = "mongodb+srv://pedronunof:malucaarmafe@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
+const MONGO_URI = process.env.MONGO_URI || "mongodb+srv://<username>:<password>@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
 const DB_NAME = "cultural_events";
 
 function categorizeEvent(text = "") {
@@ -83,3 +83,4 @@ async function enrich() {
 }
 
 enrich();
+

@@ -4,7 +4,7 @@ import crypto from "crypto";
 import { MongoClient } from "mongodb";
 
 
-const MONGO_URI = "mongodb+srv://pedronunof:malucaarmafe@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
+const MONGO_URI = process.env.MONGO_URI || "mongodb+srv://<username>:<password>@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
 const DB_NAME = "cultural_events";
 const COLLECTION_NAME = "RAW";
 
@@ -51,3 +51,4 @@ async function collectAndStore() {
 }
 
 collectAndStore();
+

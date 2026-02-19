@@ -3,7 +3,7 @@ import mysql from "mysql2/promise";
 
 const MONGO_URI =
   process.env.MONGO_URI ||
-  "mongodb+srv://pedronunof:malucaarmafe@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
+  "mongodb+srv://<username>:<password>@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
 const MONGO_DB = process.env.MONGO_DB || "cultural_events";
 const MONGO_COLLECTION = process.env.MONGO_COLLECTION || "ENRICHED";
 
@@ -90,3 +90,4 @@ transferEnrichedToMySQL().catch((error) => {
   console.error("Transfer failed:", error.message);
   process.exit(1);
 });
+
