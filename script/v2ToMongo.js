@@ -9,7 +9,7 @@ const ENRICHED_FILE = path.join(DATA_DIR, "enriched-events-v2.json");
 
 const MONGO_URI =
   process.env.MONGO_URI ||
-  "mongodb+srv://pedronunof:malucaarmafe@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
+  "mongodb+srv://<username>:<password>@cluster0.dr8kqbb.mongodb.net/?appName=Cluster0";
 const DB_NAME = process.env.MONGO_DB || "cultural_events";
 const RAW_COLLECTION = process.env.MONGO_RAW_V2_COLLECTION || "RAW_V2";
 const ENRICHED_COLLECTION =
